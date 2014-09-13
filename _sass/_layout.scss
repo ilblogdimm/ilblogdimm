@@ -9,7 +9,7 @@
 }
 
 .site-title {
-    font-size: 26px;
+    font-size: 50px;
     line-height: 56px;
     letter-spacing: -1px;
     margin-bottom: 0;
@@ -20,6 +20,14 @@
         color: $grey-color-dark;
     }
 }
+
+ul { margin-left: 0px;}
+.titolo > li {
+  display: inline;
+  margin: 0 10px;
+  list-style-type: none;
+}
+
 
 .site-nav {
     float: left;

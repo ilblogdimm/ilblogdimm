@@ -159,7 +159,10 @@ pre {
     margin-left: auto;
     padding-right: $spacing-unit;
     padding-left: $spacing-unit;
+	padding-top: $spacing-unit;
     @extend %clearfix;
+	background-color: $wrapper-color;
+	border-radius: 20px;
 
     @include media-query($on-laptop) {
         max-width: -webkit-calc(800px - (#{$spacing-unit}));
@@ -170,6 +173,9 @@ pre {
 }
 
 
+.pagination{ display: table; margin: 0 auto; }
+
+.pagination a{ margin: 0 2px 0 0; }
 
 /**
  * Clearfix

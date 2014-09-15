@@ -43,7 +43,7 @@ ul { margin-left: 0px;}
         line-height: $base-line-height;
 
         // Gaps between nav items, but not on the first one
-        &:not(:first-child) {
+        & {
             margin-left: 20px;
         }
     }
@@ -115,7 +115,7 @@ ul { margin-left: 0px;}
 
 .footer-col-wrapper {
     font-size: 15px;
-    color: $grey-color;
+    //color: $grey-color;
     margin-left: -$spacing-unit / 2;
     @extend %clearfix;
 }
@@ -215,7 +215,7 @@ ul { margin-left: 0px;}
 
 .post-content {
     margin-bottom: $spacing-unit;
-
+	text-align: justify;
     h2 {
         font-size: 32px;
 
@@ -239,4 +239,8 @@ ul { margin-left: 0px;}
             font-size: 18px;
         }
     }
+}
+
+.content > p {
+    text-align: justify;
 }

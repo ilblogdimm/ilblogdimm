@@ -3,6 +3,7 @@ layout: page
 title: Contatti
 permalink: /contatti/
 comments: False
+weight: 6
 ---
 
 Il blog di MM puoi trovarlo anche su:

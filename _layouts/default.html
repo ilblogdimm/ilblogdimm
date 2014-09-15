@@ -8,10 +8,18 @@
     {% include header.html %}
 
     <div class="page-content">
+	  <!-- <img src="/assetts/newomino.png" id="newominol" alt="logo">
+	  <div class="dx">
+	  <img src="/assetts/newomino.png" id="newominor" alt="logo">
+	  {% if page.calendar %}
+		{% include calendar.html %}
+	  {% endif %}
+	  </div> -->
       <div class="wrapper">
         {{ content }}
       </div>
-    </div>
+	  
+	</div>
 
     {% if page.comments %}
     {% include comments.html %}

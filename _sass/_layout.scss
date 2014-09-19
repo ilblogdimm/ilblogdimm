@@ -9,11 +9,12 @@
 }
 
 .site-title {
-    font-size: 50px;
-    line-height: 56px;
+    font-size: 56px;
+    line-height: 50px;
     letter-spacing: -1px;
     margin-bottom: 0;
     float: left;
+	
 
     &,
     &:visited {
@@ -204,7 +205,8 @@ ul { margin-left: 0px;}
 }
 
 .post-title {
-    font-size: 42px;
+    font-size: 32px;
+	color: #1756a9;
     letter-spacing: -1px;
     line-height: 1;
 

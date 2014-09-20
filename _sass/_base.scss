@@ -182,7 +182,7 @@ pre {
     margin-left: auto;
     padding-right: $spacing-unit;
     padding-left: $spacing-unit;
-	padding-top: $spacing-unit;
+    text-align: justify;
     @extend %clearfix;
     @include media-query($on-laptop) {
         max-width: -webkit-calc(800px - (#{$spacing-unit}));
@@ -192,6 +192,16 @@ pre {
     }
 }
 
+.ad {
+   display: inline-block;
+   padding-top: 30px;
+   padding-bottom: 30px;
+}
+.ad:after {
+   display: inline-block;
+   content: '';
+   width: 100%;
+}
 .post_title{
     font-size: 32px;
     color: #1756a9;

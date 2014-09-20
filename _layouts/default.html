@@ -8,35 +8,19 @@
     {% include header.html %}
 
     <div class="page-content">
-<script type="text/javascript"><!--
-google_ad_client = "ca-pub-1718645476584651";
-/* piccolo */
-google_ad_slot = "8110034729";
-google_ad_width = 320;
-google_ad_height = 50;
-//-->
-</script>
-<script type="text/javascript"
-src="//pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>
-	
-	  <!-- <img src="/assetts/newomino.png" id="newominol" alt="logo">
-	  <div class="dx">
-	  <img src="/assetts/newomino.png" id="newominor" alt="logo">
-	  {% if page.calendar %}
-		{% include calendar.html %}
-	  {% endif %}
-	  </div> -->
+
+      {% include ads.html %}
+
       <div class="wrapper">
         {{ content }}
       </div>
-	  
-	</div>
+
+    </div>
 
     {% if page.comments %}
     {% include comments.html %}
     {% endif %}
-    
+
     {%include analytics.html %}
 
     {% include footer.html %}

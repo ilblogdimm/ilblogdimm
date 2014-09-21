@@ -220,7 +220,11 @@ pre {
 	margin: 0 0 0 50px;
 	}
 
-.pagination{ display: table; margin: 0 auto; }
+.pagination{
+  display: table;
+  margin: 0 auto;
+  font-size: 14px;
+}
 
 .pagination a{ margin: 0 2px 0 0; }
 

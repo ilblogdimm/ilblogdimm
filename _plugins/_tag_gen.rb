@@ -8,13 +8,15 @@ module Jekyll
       self.process(@name)
       self.read_yaml(File.join(base, '_layouts'), 'tag_index.html')
       self.data['tag'] = tag
+      weight_list = site.config['ordine']
+      self.data['weight'] = weight_list[tag]
       #tag_title_prefix = site.config['tag_title_prefix'] || '&ldquo;'
       #tag_title_suffix = site.config['tag_title_suffix'] || '&rdquo;'
       #self.data['title'] = "#{tag_title_prefix}#{tag}#{tag_title_suffix}"
-	  self.data['title'] = "#{tag}"
-	  
+      self.data['title'] = "#{tag}"
     end
   end
+
   class TagGenerator < Generator
     safe true
     def generate(site)

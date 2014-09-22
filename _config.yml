@@ -11,3 +11,8 @@ markdown: kramdown
 
 paginate: 3
 paginate_path: "page:num"
+
+ordine:
+  Ambiente: 2
+  MusicalMente: 3
+  Divagando: 4

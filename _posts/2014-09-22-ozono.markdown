@@ -10,7 +10,6 @@ tags:
 
 ---
 
-
 E così il buco dell'ozono sembra si stia "richiudendo". Dopo più di trent'anni di ricerche
 si cominciano ad apprezzare i primi risultati concreti ottenuti a seguito del divieto di utilizzo
 dei CFC (Clorofluorocarburi) in campo industriale e commerciale.
@@ -28,8 +27,6 @@ Nel corso degli anni i Clorofluorocarburi sono stati sostituiti dagli HCFC (Idro
 entrambi dei gas serra meno aggressivi nei confronti dell'ozono. L'effetto possiamo iniziare a misurarlo solo adesso.
 Anzi c'è chi lo fa per noi. In questo caso la NASA che in cinque secondi ci permette di osservare l'evoluzione
 del fenomeno dal 1979 al 2013. Buona visione.
-
-
 
 [Evoluzione dello strato di ozono dal 1979 al 2013](http://ozonewatch.gsfc.nasa.gov/ozone_maps/movies/OZONE_D1979-09%25P1Y_G%5e1280X720.MMERRA_LSH.mp4)
  origin/master

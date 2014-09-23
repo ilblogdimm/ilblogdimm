@@ -22,8 +22,10 @@ versione più recente. Becca è cresciuta e ha scoperto di avere un
 fratello, Levon. Hank e Karen invece sono sempre gli stessi, come la
 canzone che ci ha dato il benvenuto e adesso ci saluta, *"Rocket man".*
 Malinconica e azzeccata.
-  
+
+<div markdown="1" class="img-wrapper">
 [![](http://www.sho.com/site/image-bin/images/411_7_0/411_7_0_prm-keyart_1024x640.jpg)](http://www.sho.com/site/image-bin/images/411_7_0/411_7_0_prm-keyart_1024x640.jpg)
+</div>
   
 In sette stagioni ***Hank Moody*** ha preso a braccetto e distrutto uno
 per uno tutti i simboli di ***L.A***. Quelli che contribuiscono alla sua

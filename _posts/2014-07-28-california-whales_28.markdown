@@ -66,8 +66,10 @@ parla, più fattibile sembra chiedere una riduzione della velocità delle
 imbarcazioni in prossimità delle zone abitate da questi animali. In
 questo modo verrebbe  quantomeno permesso loro di allontanarsi in tempo
 dai loro "investitori".
-  
+
+<div markdown="1" class="img-wrapper">
 [![](http://www.amosphotography.com/data/photos/146_1Blue_Whale_tail.jpg)](http://www.amosphotography.com/data/photos/146_1Blue_Whale_tail.jpg)
+</div>
   
 Si capisco, di questi tempi il problema delle balene non rientra
 sicuramente nella lista mondiale dei dilemmi che l'umanità si trova ad
@@ -91,8 +93,10 @@ grassoni, non troveranno mai spazio nemmeno nei recinti. A questi
 converrebbe pensare un po' prima di averli uccisi tutti. Dopo c'è tempo
 solo per la nostalgia. Adesso, forse, si può ancora fare qualcosa. Ad
 esempio pensarci. Per iniziare.
-  
+
+<div markdown="1" class="img-wrapper">
 [![](http://images.nationalgeographic.com/wpf/media-live/photos/000/652/custom/species-revival-thylacine-950_65255_950x384.jpg)](http://images.nationalgeographic.com/wpf/media-live/photos/000/652/custom/species-revival-thylacine-950_65255_950x384.jpg)
+</div>
   
 Per leggere l'articolo integrale pubblicato su Science basta
 cliccare [quì](http://news.sciencemag.org/biology/2014/07/blue-whales-being-struck-ships)

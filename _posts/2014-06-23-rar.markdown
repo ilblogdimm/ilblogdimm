@@ -6,7 +6,7 @@ uuid: "6598635539405205337"
 guid: "tag:blogger.com,1999:blog-70455267196998696.post-6598635539405205337"
 date: "2014-06-23 15:18:00"
 updated: "2014-06-23 15:18:28"
-description: 
+description:
 blogger:
     siteid: "70455267196998696"
     postid: "6598635539405205337"
@@ -44,3 +44,7 @@ mi farò avanti in mezzo a schiere di assetati bevitori di birra e dopo
 aver strusciato contro centinaia di magliette sudanti salirò la sopra e
 sceglierò anch'io "Whiskey In The Jar", la canzone meno suonata, quella
 più richiesta. 
+
+<div class="youtube">
+<iframe width="560" height="315" src="//www.youtube-nocookie.com/embed/sMZMI2gFW54?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>

@@ -27,8 +27,10 @@ ignote ma a te consiglierebbero di prenderla con filosofia. Loro sono da
 ignorare. Quei pochi individui che pensano realmente che tutto vada per
 il meglio sono invidiabili, loro sono il motivo per cui non ci siamo
 ancora estinti ma sono più rari di un quadrifoglio a Gennaio.
-  
+
+<div markdown="1" class="img-wrapper">
 [![](http://graememcranor.files.wordpress.com/2010/11/florence-the-machine-photo-3.jpg)](http://graememcranor.files.wordpress.com/2010/11/florence-the-machine-photo-3.jpg)
+</div>
   
 *Florence Welch* appartiene alla schiera delle persone tendenzialmente
 tristi. Una ragazza malinconica mediamente brava a scuola appassionata
@@ -90,8 +92,10 @@ Da allora concerti a non finire, collaborazioni con altri artisti
 (*Sweet Nothing* di *Calvin Harris*), colonne sonore di film (*Il grande
 Gatsby*), comparsate in televisione e tanto, tantissimo attivismo sui
 social network.
-  
+
+<div markdown="1" class="img-wrapper">
 [![](http://th07.deviantart.net/fs70/PRE/i/2010/173/9/1/Florence_and_the_Machine_by_escmymind.jpg)](http://th07.deviantart.net/fs70/PRE/i/2010/173/9/1/Florence_and_the_Machine_by_escmymind.jpg)
+</div>
   
 Verosimilmente tra non molto uscirà un altro loro album. Sarà difficile
 mantenere l'entusiasmo dei due lavori precedenti. Non sarà semplice

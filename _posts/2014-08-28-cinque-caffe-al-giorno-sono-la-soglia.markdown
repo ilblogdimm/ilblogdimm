@@ -39,8 +39,10 @@ sostituire il caffè con il tè (ha un'impronta idrica minore) ma berne
 quattro tazze al giorno fa figo solo se sei un ex tossicodipendente
 californiano e poi chi ci restituirebbe il tempo speso a cercare ogni
 ora un cesso per pisciare? Ecco appunto, nessuno.
-  
+
+<div markdown="1" class="img-wrapper">
 [![](http://rack.1.mshcdn.com/media/ZgkyMDE0LzA1LzI0L2E4L29yZ2FuaWNjb2ZmLjg2NjZhLmdpZgpwCXRodW1iCTEyMDB4OTYwMD4/d03fc22a/613/organic-coffee-text-final.gif)](http://rack.1.mshcdn.com/media/ZgkyMDE0LzA1LzI0L2E4L29yZ2FuaWNjb2ZmLjg2NjZhLmdpZgpwCXRodW1iCTEyMDB4OTYwMD4/d03fc22a/613/organic-coffee-text-final.gif)
+</div>
   
 Allora il consiglio per chi è incapace come me di abbandonare la dolce
 via del consumismo è continuare a consumare, si, ma più eticamente.

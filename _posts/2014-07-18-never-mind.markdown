@@ -18,8 +18,10 @@ tags:
 Gli appuntamenti sono scanditi da date e orari e i numeri sono come il
 fertilizzante per i fiori, alimentano le convinzioni. Le convinzioni
 rovinano le persone.
-  
+
+<div markdown="1" class="img-wrapper">
 [![](http://media.digitalphotogallery.com/fxyrcnkrfzfa/images/03dc1d82-1a8d-11e1-9dd7-fefd616b8533/arctic_monkeys_mlh014_01_website_image_sgjv_standard.jpg?20120229145155)](http://media.digitalphotogallery.com/fxyrcnkrfzfa/images/03dc1d82-1a8d-11e1-9dd7-fefd616b8533/arctic_monkeys_mlh014_01_website_image_sgjv_standard.jpg?20120229145155)
+</div>
   
 Se gli ***Arctic Monkeys*** avessero suonato ieri sera a ***Villafranca
 di Verona*** sarei corso ad ascoltarli. La mattina sarei andato in
@@ -52,8 +54,10 @@ le aspettative. ***"Crying lightning"*** e ***"505"*** sarebbero state
 suonate tra le acclamazioni della folla. *Tutto è bene ciò che finisce
 bene!! *Al termine della baraonda sonora questa sarebbe stata
 l'esclamazione più azzeccata.
-  
+
+<div markdown="1" class="img-wrapper">
 [![](http://adelaloconte.com/wp-content/uploads/2013/03/Arctic-Monkeys_3.jpg)](http://adelaloconte.com/wp-content/uploads/2013/03/Arctic-Monkeys_3.jpg)
+</div>
   
 Peccato che il concerto fosse il giorno prima. Il rituale è perciò
 rimandato a data da destinarsi. 

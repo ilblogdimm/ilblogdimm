@@ -56,6 +56,8 @@ speranze alle persone che ancora si affidano a queste per pianificare le
 giornate da trascorrere all'aperto. E i giorni semplicemente passano.
 Scivolano inspiegabilmente via tutti uguali, anonimi, come questo
 tempo.
-  
+
+<div markdown="1" class="img-wrapper">
 [![](https://eveyonthemoon.files.wordpress.com/2013/01/20130121-233739.jpg)](https://eveyonthemoon.files.wordpress.com/2013/01/20130121-233739.jpg)
+</div>
   

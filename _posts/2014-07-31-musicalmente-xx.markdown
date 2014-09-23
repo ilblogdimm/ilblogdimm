@@ -69,6 +69,8 @@ emotivi. Andranno avanti a dipingere i contesti delle serie televisive,
 a infondere serenità nei loro fans, verranno ascoltati inconsapevolmente
 ovunque finendo per diventare una band di culto, un gruppo per uditi
 fini, l'atmosfera perfetta per un qualsiasi venerdì sera.
-  
+
+<div markdown="1" class="img-wrapper">
 [![](http://blogs.dickinson.edu/wdcvfm/files/2012/07/the-xx-cute1.jpeg)](http://blogs.dickinson.edu/wdcvfm/files/2012/07/the-xx-cute1.jpeg)
+</div>
   

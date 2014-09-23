@@ -6,7 +6,7 @@ uuid: "8927047948405496701"
 guid: "tag:blogger.com,1999:blog-70455267196998696.post-8927047948405496701"
 date: "2014-07-03 18:56:00"
 updated: "2014-07-03 18:56:26"
-description: 
+description:
 blogger:
     siteid: "70455267196998696"
     postid: "8927047948405496701"
@@ -59,9 +59,11 @@ senso aumentare dove possibile il verde pubblico.
 L'unico punticino a favore sembra riguardare l'aspetto visivo. Perchè
 per essere belli sono belli. Niente da dire (ci mancherebbe solo che
 fossero anche brutti).
-  
+
+<div markdown="1" class="img-wrapper">
 [![](http://www.dorchestercollection.com/uploads/images/HotelPrincipeDiSavoia/FullLengthImages/Medium/Panorama-su-Porta-Nuova.jpg)](http://www.dorchestercollection.com/uploads/images/HotelPrincipeDiSavoia/FullLengthImages/Medium/Panorama-su-Porta-Nuova.jpg)
-  
+</div>
+
 A Hong Kong invece sono ricchi sfondati, hanno grattacieli ovunque ma
 l'acqua scarseggia. Dovendo soddisfare il fabbisogno idrico di sette
 milioni di persone l'amministrazione locale, dopo aver ridacchiato sotto
@@ -96,7 +98,8 @@ Il verde verticale e suoi ospiti, calciatori, grandi imprenditori,
 sauditi, petrolieri, intellettuali. Gente con una spiccata sensibilità
 alla carta moneta, sensibilità meno spiccata quando si parla di
 ambiente, inesistente quando è il momento di metterla in pratica. 
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  [![](https://www.hongkongairport.com/eng/img/csr/img_animation_gif/grey_water.gif)](https://www.hongkongairport.com/eng/img/csr/img_animation_gif/grey_water.gif)
-  Il ciclo dell'acqua nell'aeroporto di Hong Kong
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<div markdown="1" class="img-wrapper">
+[![](https://www.hongkongairport.com/eng/img/csr/img_animation_gif/grey_water.gif)](https://www.hongkongairport.com/eng/img/csr/img_animation_gif/grey_water.gif)
+</div>
+<div class="img-caption">Il ciclo dell'acqua nell'aeroporto di Hong Kong<br></div>

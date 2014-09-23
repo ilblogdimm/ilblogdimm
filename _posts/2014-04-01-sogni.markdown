@@ -6,7 +6,7 @@ uuid: "2565599116872708992"
 guid: "tag:blogger.com,1999:blog-70455267196998696.post-2565599116872708992"
 date: "2014-04-01 21:07:00"
 updated: "2014-04-01 21:07:45"
-description: 
+description:
 blogger:
     siteid: "70455267196998696"
     postid: "2565599116872708992"
@@ -25,6 +25,7 @@ inconsapevole, spolvero conversazioni recitate a memoria osservando la
 scena da una prospettiva esterna, con la sensazione di poter
 interpretare un ruolo attivo nella trama di uno spettacolo già
 terminato. 
+
 Ansia. Seguita dalla serenità di un bagno al lago d'estate. Rimango
 pochi minuti immerso nell'acqua del lido di quello che sembra un
 classico litorale ligure. Ma sono al lago, non al mare. Guardo le case
@@ -41,7 +42,3 @@ l'orario. Il sole si stufa in fretta di aspettarmi e comincia a
 illuminare solo i cornicioni delle case. Sento di non aver mai atteso
 così tanto un orario, l'innocuo passare del tempo di un pomeriggio
 d'estate. Mi fermo in una viuzza ancora bagnato. E mi sveglio.
-
-<div class="youtube">
-<iframe src="//www.youtube-nocookie.com/embed/sMZMI2gFW54?rel=0" frameborder="0" allowfullscreen></iframe>
-</div>

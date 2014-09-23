@@ -53,8 +53,10 @@ e autostrade non aiuteranno i bronchi dei cinesi. E così la "brown
 cloud", sempre più grossa, continuerà a tormentare i californiani che,
 sdraiati a bordo piscina, tormenteranno a loro volta il mondo
 snocciolando sbarluccicanti tesi sulla green economy.
-  
+
+<div markdown="1" class="img-wrapper">
 [![](http://www.trbimg.com/img-52b90024/turbine/la-afp-getty-heavy-smog-hits-east-china-jpg-20131223/2048/2048x1469)](http://www.trbimg.com/img-52b90024/turbine/la-afp-getty-heavy-smog-hits-east-china-jpg-20131223/2048/2048x1469)
+</div>
   
 Xi intanto esce a pisciare il cane. L'inquinamento è un problema per lo
 più causato da altri, pensa; è sera, c'è puzza e non si vede niente.

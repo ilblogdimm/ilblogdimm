@@ -30,8 +30,10 @@ mente i ***Crookers***. 
 Poi c'è chi riesce a fare entrambe le cose. Quelli generalmente sono i
 più bravi e sopravvivono sempre alle estati, vedi i ***Chemical
 Brothers***.
-  
+
+<div markdown="1" class="img-wrapper">
 [![](http://fanart.tv/api/download.php?type=download&image=6299&section=2)](http://fanart.tv/api/download.php?type=download&image=6299&section=2)
+</div>
   
 Nascono all'inizio degli anni '90, in quel periodo di coma musicale che
 vede la nascita dei Take That e la caduta dei Metallica. Quella sequenza
@@ -96,8 +98,10 @@ Gli anni successivi sono dedicati ai live. Da vedere/ascoltare il
 concerto al Glastonbury festival del 2011 (si trova su Youtube). Da
 andare a sentire di persona, per chi si trovasse in zona, il concerto
 che si terrà a Gallipoli il prossimo 15 Agosto.
-  
+
+<div markdown="1" class="img-wrapper">
 [![](http://www.furtherremixed.org/images/art/dissolve.png)](http://www.furtherremixed.org/images/art/dissolve.png)
+</div>
   
 Insomma gli anni passeranno, i gusti cambieranno, e cambieranno anche i
 suoni. Se parti con un'idea controcorrente questa potrebbe ripagarti

@@ -46,8 +46,10 @@ Chili Peppers. Viaggiano su binari che portano in luoghi opposti.
 L'unico punto di unione tra di loro è dato dalla chitarra di Frusciante
 che in un modo o nell'altro ha indirizzato la carriera della band di Los
 Angeles.
-  
+
+<div markdown="1" class="img-wrapper">
 [![](http://37.media.tumblr.com/f881b73674d406f5fdcc7613dbe46741/tumblr_mti9czQwWJ1spdkk1o1_500.jpg)](http://37.media.tumblr.com/f881b73674d406f5fdcc7613dbe46741/tumblr_mti9czQwWJ1spdkk1o1_500.jpg)
+</div>
   
 L'ingresso nei Red Hot Chili Peppers avviene nel 1988 dopo la morte per
 overdose dell'allora chitarrista e grande amico di Anthony Kiedis,
@@ -84,8 +86,10 @@ rischiato l'amputazione di un braccio a causa della scarsa pulizia delle
 ferite causate dalle iniezioni di eroina. Eppure, nonostante tutto, il
 labirinto ha una fine e arriva nel '98 con la chiamata di Anthony e la
 riconciliazione con il gruppo.
-  
+
+<div markdown="1" class="img-wrapper">
 [![](http://www.motherlovemusic.be/wp-content/uploads/2010/01/johnfrusciante.jpg)](http://www.motherlovemusic.be/wp-content/uploads/2010/01/johnfrusciante.jpg)
+</div>
   
 Da qui in avanti la carriera solista di Frusciante è destinata a
 decollare. Il demone della droga è sconfitto definitivamente, la
@@ -137,8 +141,10 @@ sperimentazione pura e la ricerca di nuovi suoni. L'avvicinamento
 all'elettronica e a generi che poco hanno a che fare con le origini
 dell'artista che portano alla pubblicazione di *Pbx Funicular Intaglio
 Zone* (2012) e *Enclosure* (2014).
-  
+
+<div markdown="1" class="img-wrapper">
 [![](http://www.alternativenation.net/wp-content/uploads/2014/03/John-Frusciante-Enclosure.jpg)](http://www.alternativenation.net/wp-content/uploads/2014/03/John-Frusciante-Enclosure.jpg)
+</div>
   
 John Frusciante è un artista poliedrico, un personaggio dal passato
 pesante e oscuro che ha saputo rialzarsi dal baratro in cui la vita l'ha

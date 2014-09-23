@@ -66,6 +66,8 @@ farà mai alzare il suo giocattolino volante. A quelli vivi oppressi da
 un problema che non si sono cercati. A quelli morti, le cui coscienze,
 trasportate dal vento *condivideranno con gli uccelli questa visione
 solitaria*.
-  
+
+<div markdown="1" class="img-wrapper">
 [![](http://www.unep.org/newscentre/viewimage.aspx?img=8827&imgsize=4)](http://www.unep.org/newscentre/viewimage.aspx?img=8827&imgsize=4)
+</div>
   

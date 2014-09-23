@@ -6,7 +6,7 @@ uuid: "2881354932669213966"
 guid: "tag:blogger.com,1999:blog-70455267196998696.post-2881354932669213966"
 date: "2014-08-01 14:35:00"
 updated: "2014-08-01 14:35:36"
-description: 
+description:
 blogger:
     siteid: "70455267196998696"
     postid: "2881354932669213966"
@@ -28,9 +28,11 @@ coerente e solleva i lettori dall'abisso di noia che si troverebbero a
 dover superare chiudendo la pagina o sopravvivendo fino all'ultimo
 punto. Così al termine di ogni piccola riflessione mi convinco che il
 termine debba restare al suo posto, li, sotto al titolo del blog.
-  
+
+<div markdown="1" class="img-wrapper">
 [![](http://media2.s-nbcnews.com/i/newscms/2014_29/573176/140718-yamal-crater-siberia-times-02_4da762115f85a6c821c1128ac73f831b.jpg)](http://media2.s-nbcnews.com/i/newscms/2014_29/573176/140718-yamal-crater-siberia-times-02_4da762115f85a6c821c1128ac73f831b.jpg)
-  
+</div>
+
 Giusto per tenere fede alla mia indole di divagatore seriale oggi scrivo
 qualcosa sui *"crateri siberiani"*, quegli enormi buchi nel terreno che
 ogni tanto spuntano come funghi nella distesa di abeti che ha ospitati
@@ -41,7 +43,7 @@ deserti roventi (Area 51) e qualsiasi luogo abitato da una persona ogni
 dieci chilometri quadrati. Non è mai atterrata una flotta aliena in una
 capitale occidentale. Chissà come mai. - Ci stanno studiando e si stanno
 preparando ad invaderci! - Urlano in coro i massimi esperti di
-biologiamolecolareatomica nucleareecologicoquantistica interpellati da
+biologia<wbr>molecolare<wbr>atomica<wbr>nucleare<wbr>ecologico<wbr>quantistica interpellati da
 *Discovery Channel*. Forse i crateri siberiani fanno parte di questo
 astuto piano interplanetario di conquista della terra. O forse sono
 parte di una fittissima rete di tunnel militari sparsi per tutta la

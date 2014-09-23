@@ -45,6 +45,8 @@ che per comunicare. Il resto del tempo spazierà dalla mattina alla sera
 tra studio e disimpegno, possibilmente svegliandosi presto che il
 mattino ha l'oro in bocca e se ci si sveglia in mezzo al verde si
 sopravvive anche meglio.
-  
+
+<div markdown="1" class="img-wrapper">
 [![](http://2.bp.blogspot.com/-TA4e0K8PHFk/U-fbIj-5b6I/AAAAAAAAAQw/gxZiPxvetvo/s1600/IMG_20140805_083222.jpg)](http://2.bp.blogspot.com/-TA4e0K8PHFk/U-fbIj-5b6I/AAAAAAAAAQw/gxZiPxvetvo/s1600/IMG_20140805_083222.jpg)
+</div>
   

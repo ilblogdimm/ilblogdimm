@@ -68,8 +68,10 @@ sua recente intervista che ha prodotto un remix di *Midnight* dei
 Coldplay, singolo uscito un mesetto fa, il 19 Aprile. L'ho ascoltato e
 mi è subito piaciuto, nonostante Chris Martin possa essere suo nipote.
 Nonostante i Coldplay non mi entusiasmino più da qualche anno.
-  
+
+<div markdown="1" class="img-wrapper">
 [![](http://images.wired.it/wp-content/uploads/2014/05/1399545159_moroder-cut-intervista.jpg)](http://images.wired.it/wp-content/uploads/2014/05/1399545159_moroder-cut-intervista.jpg)
+</div>
   
 Coldplay - Midnight (Giorgio Moroder Remix):
 <https://soundcloud.com/giorgiomoroder/coldplay-midnight-giorgio-moroder-remix/>

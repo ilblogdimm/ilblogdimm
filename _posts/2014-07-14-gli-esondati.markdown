@@ -6,7 +6,7 @@ uuid: "413694583695766483"
 guid: "tag:blogger.com,1999:blog-70455267196998696.post-413694583695766483"
 date: "2014-07-14 14:48:00"
 updated: "2014-07-14 14:49:33"
-description: 
+description:
 blogger:
     siteid: "70455267196998696"
     postid: "413694583695766483"
@@ -32,9 +32,11 @@ Su di esse è posta l'attenzione di ribelli e governativi, entrambi
 perfettamente consapevoli che dall'apertura e chiusura dei rubinetti può
 dipendere il potere di vita o di morte sulla popolazione irachena e di
 conseguenza il controllo del paese.
-  
+
+<div markdown="1" class="img-wrapper">
 [![](http://www.repubblica.it/2006/05/gallerie/esteri/mosul/ap115296693110205845_big.jpg)](http://www.repubblica.it/2006/05/gallerie/esteri/mosul/ap115296693110205845_big.jpg)
-  
+</div>
+
 Pensandoci meglio i conflitti per l'acqua in giro per il mondo non sono
 pochi. Un esempio è rappresentato dalla guerra tra ***Egitto*** ed
 **Etiopia**, fortunatamente al momento solo verbale, per il controllo
@@ -60,9 +62,11 @@ rinunciare in un futuro prossimo a quella risorsa che ha garantito lo
 sviluppo del paese nei decenni passati e che, con il passare del tempo,
 viene sempre più messa in discussione dagli stati confinanti, stanchi di
 dover rinunciare alla loro necessità di progresso.
-  
+
+<div markdown="1" class="img-wrapper">
 [![](http://www.circleofblue.org/waternews/wp-content/uploads/2013/09/infographic-wealthofthe-nile.jpg)](http://www.circleofblue.org/waternews/wp-content/uploads/2013/09/infographic-wealthofthe-nile.jpg)
-  
+</div>
+
 Al di la delle guerre e delle antipatie internazionali esistono poi
 esempi lampanti di sovra sfruttamento delle risorse idriche. Il ***lago
 d'Aral*** è l'esempio più noto. Per farla breve, nel 1960 il lago aveva
@@ -83,8 +87,11 @@ la sua parte di lago, il "grande" Aral, misurando circa ***17160
 chilometri quadrati***, è ridotto al fantasma di se stesso. Aggiungere
 altro è superfluo, meglio giudicare con i propri occhi.
 
-  ![Involuzione del lago d'Aral dal 1960 al 2010](http://upload.wikimedia.org/wikipedia/commons/9/9f/Aralsee.gif)
-  
+<div markdown="1" class="img-wrapper">
+[![](http://upload.wikimedia.org/wikipedia/commons/9/9f/Aralsee.gif)](http://upload.wikimedia.org/wikipedia/commons/9/9f/Aralsee.gif)
+</div>
+<div class="img-caption">Involuzione del lago d'Aral dal 1960 al 2010<br></div>
+
 Insomma il problema dell'acqua è un problema più complesso di quanto si
 pensi. In ***Italia*** fortunatamente ne abbiamo in abbondanza e, fino
 ad ora, il problema più grosso che ci troviamo ad affrontare è la

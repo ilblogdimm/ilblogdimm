@@ -78,8 +78,10 @@ e la sera, dopo aver cenato, vanno a dormire, che tanto fuori è tutto
 buio e qui non ci sono mai risultati elettorali da commentare.
 GoPro City Tour of Pyongyang:
 <https://www.youtube.com/watch?v=D4hLctBvojE> 
-  
+
+<div markdown="1" class="img-wrapper">
 [![](http://static1.businessinsider.com/image/521f6e976bb3f77646e58acd/pyongyang-has-a-ridiculously-expensive-new-coffee-shop.jpg)](http://static1.businessinsider.com/image/521f6e976bb3f77646e58acd/pyongyang-has-a-ridiculously-expensive-new-coffee-shop.jpg)
+</div>
   
 
 <div class="youtube">

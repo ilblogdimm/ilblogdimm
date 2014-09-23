@@ -45,6 +45,8 @@ mordere e a venire squalificato, a giocare bene e a venire
 sopravvalutato, tornerai su *Vergon 6* e ti ricorderemo così come sei.
 Mordace, furbetto e disadattato.
 Ispirata ad un assaggio di qualche tempo fa...
-  
-![](http://1.bp.blogspot.com/-4ozkVnZ5SLo/U6qBMnRMW4I/AAAAAAAAAQY/IyJFOqOoq-k/s1600/6a00d8341d417153ef017d430a02bf970c-800wi.png)
+
+<div markdown="1" class="img-wrapper">
+[![](http://1.bp.blogspot.com/-4ozkVnZ5SLo/U6qBMnRMW4I/AAAAAAAAAQY/IyJFOqOoq-k/s1600/6a00d8341d417153ef017d430a02bf970c-800wi.png)](http://1.bp.blogspot.com/-4ozkVnZ5SLo/U6qBMnRMW4I/AAAAAAAAAQY/IyJFOqOoq-k/s1600/6a00d8341d417153ef017d430a02bf970c-800wi.png)
+</div>
   

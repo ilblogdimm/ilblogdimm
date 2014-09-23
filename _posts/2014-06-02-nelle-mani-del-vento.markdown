@@ -55,8 +55,10 @@ palazzo, pensando alla prossima fatica, al prossimo cantiere, ai
 prossimi adesivi da appiccicare e appigli da afferrare, immaginando il
 momento in cui arrivi lassù, tra la foschia e il vento assordante,
 lontano da tutti, a penzoloni sul mondo, nelle mani del vento.
-  
+
+<div markdown="1" class="img-wrapper">
 [![](http://i.huffpost.com/gen/1620398/thumbs/o-SKYWALKING-facebook.jpg)](http://i.huffpost.com/gen/1620398/thumbs/o-SKYWALKING-facebook.jpg)
+</div>
   
 Altra scalata allucinante tra gelo e ghiaccio, da pazzi!
 

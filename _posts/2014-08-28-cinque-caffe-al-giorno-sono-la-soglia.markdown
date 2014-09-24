@@ -6,7 +6,7 @@ uuid: "7140909988303118208"
 guid: "tag:blogger.com,1999:blog-70455267196998696.post-7140909988303118208"
 date: "2014-08-28 13:02:00"
 updated: "2014-08-28 13:08:59"
-description: 
+description:
 blogger:
     siteid: "70455267196998696"
     postid: "7140909988303118208"
@@ -40,10 +40,8 @@ quattro tazze al giorno fa figo solo se sei un ex tossicodipendente
 californiano e poi chi ci restituirebbe il tempo speso a cercare ogni
 ora un cesso per pisciare? Ecco appunto, nessuno.
 
-<div markdown="1" class="img-wrapper">
-[![](http://rack.1.mshcdn.com/media/ZgkyMDE0LzA1LzI0L2E4L29yZ2FuaWNjb2ZmLjg2NjZhLmdpZgpwCXRodW1iCTEyMDB4OTYwMD4/d03fc22a/613/organic-coffee-text-final.gif)](http://rack.1.mshcdn.com/media/ZgkyMDE0LzA1LzI0L2E4L29yZ2FuaWNjb2ZmLjg2NjZhLmdpZgpwCXRodW1iCTEyMDB4OTYwMD4/d03fc22a/613/organic-coffee-text-final.gif)
-</div>
-  
+{% img http://rack.1.mshcdn.com/media/ZgkyMDE0LzA1LzI0L2E4L29yZ2FuaWNjb2ZmLjg2NjZhLmdpZgpwCXRodW1iCTEyMDB4OTYwMD4/d03fc22a/613/organic-coffee-text-final.gif %}
+
 Allora il consiglio per chi è incapace come me di abbandonare la dolce
 via del consumismo è continuare a consumare, si, ma più eticamente.
 Della serie, l'ambiente continuerà a patire un po' di più per soddisfare
@@ -62,6 +60,4 @@ continuerà in ogni caso a bere il suo Tè verde sul lago di Como.
 Se avete cinque minuti date un'occhiata a questo simpatico video che
 tesse le lodi del caffè:
 
-<div class="youtube">
-<iframe src="//www.youtube-nocookie.com/embed/OTVE5iPMKLg?rel=0" frameborder="0" allowfullscreen></iframe>
-</div>
+{% youtube OTVE5iPMKLg %}

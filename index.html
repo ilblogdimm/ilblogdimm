@@ -8,34 +8,32 @@ calendar: True
   {% for post in paginator.posts %}
   <h1><a class="link-post" href="{{ post.url }}">{{ post.title }}</a></h1>
   <p class="author">
-    <span class="date">{{ post.date | date: "%B %d, %Y" }}</span>
+  <span class="date">{{ post.date | date: "%B %d, %Y" }}</span>
   </p>
   <div class="content">
     {{ post.content }}
   </div>
-{% endfor %}
+  {% endfor %}
 
   {% if paginator.total_pages > 1 %}
-<div class="pagination">
-  {% if paginator.previous_page %}
+  <div class="pagination">
+    {% if paginator.previous_page %}
     <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Pagina Precedente   </a>
-  {% else %}
+    {% else %}
     <span>&laquo; Pagina Precedente</span>
-  {% endif %}
+    {% endif %}
 
 
-  {% if paginator.next_page %}
+    {% if paginator.next_page %}
 
-    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">   Pagina Successiva &raquo;</a
+    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">   Pagina Successiva &raquo;</a>
 
-  {% else %}
+    {% else %}
 
     <span>Pagina Successiva &raquo;</span>
 
+    {% endif %}
+  </div>
   {% endif %}
-</div>
-{% endif %}
-
 
 </div>
-

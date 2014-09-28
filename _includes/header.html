@@ -21,7 +21,7 @@
       <div class="trigger">
         {% assign sorted_pages = (site.pages | sort: 'weight') %}
         {% for page in sorted_pages  %}
-          {% if page.title and page.title != '404' %}
+          {% if page.title and page.title != '404' and page.title != 'Archivio' %}
           <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
           {% endif %}
         {% endfor %}

@@ -1,7 +1,7 @@
 <div class="sidebar">
 <nav class="sidebar-nav">
   <ul class="sidebar-list">
-    <li id="titolo-barra">Lista Posta<li>
+    <li id="titolo-barra">Archivio<li>
     {% assign pages_list = site.posts %}
     {% for node in pages_list %}
     {% if node.title != null %} <li> <a class="sidebar-nav-item" href="{{ node.url }}">{{ node.title }}</a> </li>

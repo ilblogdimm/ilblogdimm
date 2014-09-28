@@ -212,6 +212,10 @@ ul {
 .post {
   width: 80%;
   float: left;
+  @include media-query($on-laptop) {
+    width: 100%;
+  }
+
 }
 .post-header {
   margin-bottom: $spacing-unit;
@@ -257,7 +261,7 @@ ul {
 }
 
 .content{
-margin-bottom: 80px;
+  margin-bottom: 80px;
 }
 
 .content > p {

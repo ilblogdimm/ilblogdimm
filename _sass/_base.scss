@@ -156,8 +156,8 @@ pre {
  * Wrapper
  */
 .wrapper {
-    max-width: -webkit-calc(800px - (#{$spacing-unit} * 2));
-    max-width:         calc(800px - (#{$spacing-unit} * 2));
+    max-width: -webkit-calc(#{$normal-width} - (#{$spacing-unit} * 2));
+    max-width:         calc(#{$normal-width} - (#{$spacing-unit} * 2));
     margin-right: auto;
     margin-left: auto;
     padding-right: $spacing-unit;
@@ -171,16 +171,43 @@ pre {
 	border-color: #878789;
 
     @include media-query($on-laptop) {
-        max-width: -webkit-calc(800px - (#{$spacing-unit}));
-        max-width:         calc(800px - (#{$spacing-unit}));
+        max-width: -webkit-calc(#{$normal-width} - (#{$spacing-unit}));
+        max-width:         calc(#{$normal-width} - (#{$spacing-unit}));
         padding-right: $spacing-unit / 2;
         padding-left: $spacing-unit / 2;
     }
 }
 
+.home {
+  width: 80%;
+  float: left;
+  @include media-query($on-laptop) {
+    width: 100%;
+  }
+}
+
+.sidebar {
+  width: 20%;
+  height:100%;
+  float: right;
+  @include media-query($on-laptop) {
+    display: none;
+  }
+}
+
+.sidebar-nav {
+  font-size: 14px;
+  margin: 10% 0 0 10px;
+  border-left: 1px solid #000000;
+}
+
+ul.sidebar-list {
+  list-style-type: none;
+}
+
 .ad-wrapper {
-    max-width: -webkit-calc(800px - (#{$spacing-unit} * 2));
-    max-width:         calc(800px - (#{$spacing-unit} * 2));
+    max-width: -webkit-calc(#{$normal-width} - (#{$spacing-unit} * 2));
+    max-width:         calc(#{$normal-width} - (#{$spacing-unit} * 2));
     margin-right: auto;
     margin-left: auto;
     padding-right: $spacing-unit;
@@ -188,8 +215,8 @@ pre {
     text-align: center;
     @extend %clearfix;
     @include media-query($on-laptop) {
-        max-width: -webkit-calc(800px - (#{$spacing-unit}));
-        max-width:         calc(800px - (#{$spacing-unit}));
+        max-width: -webkit-calc(#{$normal-width} - (#{$spacing-unit}));
+        max-width:         calc(#{$normal-width} - (#{$spacing-unit}));
         padding-right: $spacing-unit / 2;
         padding-left: $spacing-unit / 2;
     }

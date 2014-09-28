@@ -19,7 +19,7 @@
     font-size: 50px;
   }
 
-  
+
   &,
   &:visited {
     color: $grey-color-dark;
@@ -208,6 +208,11 @@ ul {
 /**
  * Posts
  */
+
+.post {
+  width: 80%;
+  float: left;
+}
 .post-header {
   margin-bottom: $spacing-unit;
 }

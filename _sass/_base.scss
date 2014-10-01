@@ -199,12 +199,19 @@ pre {
 
 .sidebar-nav {
   font-size: 14px;
-  margin: 10% 0 0 10px;
-  border-left: 1px solid #000000;
+  margin: 10% 0 5px 20px;
 }
 
 ul.sidebar-list {
   list-style-type: none;
+}
+
+li.sidebar-elem {
+  margin: 5px 0 5px 0;
+}
+
+li.sidebar-elem::before {
+  content: "↪ ";
 }
 
 .ad-wrapper {

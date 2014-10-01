@@ -1,12 +1,14 @@
 <div class="sidebar">
 <nav class="sidebar-nav">
-  <ul class="sidebar-list">
-    <li id="titolo-barra">Archivio<li>
-    {% assign pages_list = site.posts %}
-    {% for node in pages_list %}
-    {% if node.title != null %} <li> <a class="sidebar-nav-item" href="{{ node.url }}">{{ node.title }}</a> </li>
+  {% for post in site.posts %}
+    {% capture currentyear %}{{post.date | date: "%Y"}}{% endcapture %}
+    {% if currentyear != year %}
+      {% capture year %}{{currentyear}}{% endcapture %}
+      {% unless forloop.first %}</ul>{% endunless %}
+<h3 class="anno-barra">Archivio - {{ currentyear }}</h1>
+<ul class="sidebar-list">
     {% endif %}
-    {% endfor %}
-  </ul>
+  <li class="sidebar-elem"><a class="sidebar-link" href="{{ post.url }}">{{ post.title }}</a></li>
+  {% endfor %}
 </nav>
 </div>

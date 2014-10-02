@@ -210,10 +210,6 @@ li.sidebar-elem {
   margin: 5px 0 5px 0;
 }
 
-li.sidebar-elem::before {
-  content: "↪ ";
-}
-
 .ad-wrapper {
     max-width: -webkit-calc(#{$normal-width} - (#{$spacing-unit} * 2));
     max-width:         calc(#{$normal-width} - (#{$spacing-unit} * 2));

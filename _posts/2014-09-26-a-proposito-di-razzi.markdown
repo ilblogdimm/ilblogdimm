@@ -21,7 +21,7 @@ giorni precedenti all'uscita del cd, scaricare un'app in grado di fornire in ogn
 Durante il giro attorno alla Terra infatti, ai fan che ogni giorno si trovavano nell'area sorvolata dal razzo, era possibile ascoltare gratuitamente in anteprima 
 i nove pezzi inediti dell'album. Infine l'8 Aprile, al termine del suo viaggio durato sette giorni, il prezioso oggetto orbitante ha concluso il suo periodo di attività ed "Enclosure" è stato definitivamente messo in vendita.
 
-{% img /assets/74415-Sat-JF14_launch.jpg %}
+{% img /assets/Razzo-JohnFrusciante.jpg %}
 
 Ecco, ora lasciando cadere le vesti di espositore ed indossando quelle di consigliere, suggerirei la visione del video a due gruppi di persone, gli esperti militari nordcoreani e i responsabili del lancio a vuoto dei due satelliti del sistema Galileo. I primi nel corso degli anni hanno dimostrato di non avere grande feeling con la balistica e il moto parabolico mentre gli europei hanno appena gettato al vento 150 milioni di euro e qualche hanno di progresso sparando fuori orbita due satelliti ormai irrecuperabili. Se solo l'onorevole Razzi avesse avvisato Kim, se solo tutti avessero visto prima questo video...
 

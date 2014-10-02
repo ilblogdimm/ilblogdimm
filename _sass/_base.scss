@@ -200,6 +200,11 @@ pre {
 .sidebar-nav {
   font-size: 14px;
   margin: 10% 0 5px 20px;
+  border-left: 1px solid black;
+}
+
+h3.anno-barra {
+  margin-left: 5px;
 }
 
 ul.sidebar-list {
@@ -207,7 +212,7 @@ ul.sidebar-list {
 }
 
 li.sidebar-elem {
-  margin: 5px 0 5px 0;
+  margin: 5px 0 5px 10px;
 }
 
 .ad-wrapper {

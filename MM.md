@@ -7,7 +7,7 @@ weight: 1
 ---
 
 <div markdown="1" id="img-MM">
-![MM](/assets/Omino.jpg)
+![MM](/assets/Omino_piccolo.jpg "MM")
 </div>
 MM nasce nella provincia di Milano all'inizio degli anni '90. Pare si chiami
 Marco e studi Ingegneria per l'ambiente e il territorio. Da sempre appassionato
@@ -17,8 +17,11 @@ Marzo 2014 quando prende vita diventando un contenitore di idee e riflessioni,
 un serbatoio di opinioni e vita quotidiana a cui attingere nei momenti di
 monotonia e solitudine mentale.
 
+***
+
+
 <div markdown="1" id="img-B-Helper">
-![MM](/assets/bhelper.jpg)
+![B-Helper](/assets/dennis_ritchie.jpg "1941-2011")
 </div>
 MM si avvale della collaborazione di uno dei più grandi informatici della Brianza, B-Helper. Di lui 
 non è noto né il nome né la fisionomia ma solo il suo innato feeling con qualsiasi linguaggio 

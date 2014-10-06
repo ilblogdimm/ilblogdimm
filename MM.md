@@ -17,6 +17,8 @@ Marco e studi Ingegneria per l'ambiente e il territorio. Da sempre appassionato
 di scrittura una mattina si sveglia e decide di aprire un blog senza aver nulla
 di essenziale da dire.
 
+<br />
+
 <div markdown="1" id="img-B-Helper">
 ![B-Helper](/assets/inter.jpg "Young")
 </div>

@@ -240,16 +240,11 @@ li.sidebar-elem {
     color: #000000;
 	}
 
-#img-MM {
+#img-MM, #img-B-Helper {
 	float: left;
+  clear: both;
   margin-right: 10px;
 	width: 300px;
-}
-
-#img-B-Helper {
-	float: left;
-  width: 300px;
-  margin-right: 10px;
 }
 
 .dx {

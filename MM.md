@@ -21,7 +21,7 @@ monotonia e solitudine mentale.
 
 
 <div markdown="1" id="img-B-Helper">
-![B-Helper](/assets/dennis_ritchie.jpg "1941-2011")
+![B-Helper](/assets/inter.jpg "Young")
 </div>
 MM si avvale della collaborazione di uno dei più grandi informatici della Brianza, B-Helper. Di lui 
 non è noto né il nome né la fisionomia ma solo il suo innato feeling con qualsiasi linguaggio 

@@ -14,8 +14,7 @@ weight: 1
 
 MM nasce nella provincia di Milano all'inizio degli anni '90. Pare si chiami
 Marco e studi Ingegneria per l'ambiente e il territorio. Da sempre appassionato
-di scrittura una mattina si sveglia e decide di aprire un blog senza aver nulla
-di essenziale da dire.
+di scrittura nel 2013 apre un blog che, tra una divagazione e l'altra, parla di ambiente e musica.
 
 <br />
 

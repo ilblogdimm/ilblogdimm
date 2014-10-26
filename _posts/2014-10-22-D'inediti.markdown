@@ -1,0 +1,20 @@
+---
+layout: post
+title:  D'inediti
+date:   2014-10-22 
+categories: Blog
+comments: True
+
+tags:
+ - MusicalMente
+
+---
+
+Aspettando l'uscita di D'iO, l'ottavo album di Dargen D'amico, ci si può consolare ascoltando i tre brani inediti rilasciati dall'artista in questi giorni.
+Ottavia, Ode In Volontaria e Ode con Creta sono tre canzoni registrate in questi anni e rimaste fino ad oggi nel cassetto del "cantautorap" milanese.
+Chi non ha ancora fatto il callo con il modo di scrivere di DD troverà inascoltabili le peripezie lessicali affrontate in questi tre pezzi.
+Gli ascoltatori storici avranno invece materiale nuovo per i loro lettori MP3. E non dovranno attendere molto per ascoltarne altro. L'uscita del nuovo album
+sembra infatti sempre più prossima. Così chi vorrà odiarlo avrà un motivo in più per farlo e chi vorrà amarlo dovrà aspettare che sia morto. 
+Io mi accodo alle persone che, citando JD, sussurrano "No morte, non presentarti ancora, non darmi il numero ancora." E gli auguro vita eterna. Come per Dio. 
+ 
+{% youtube 3abvJYnTXwM %}

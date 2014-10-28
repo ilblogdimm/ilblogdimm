@@ -1,0 +1,23 @@
+---
+layout: post
+title: Tonn...to
+date:   2014-10-28 14:20:00
+categories: Blog
+comments: True
+
+tags:
+ - Ambiente
+
+---
+
+Su alcune cose arrivo sempre un po' in ritardo. Per forza di cose. Se dovessi tenermi aggiornato ogni giorno su tutto quello che mi interessa qualcuno dovrebbe
+perlomeno concedermi due ticket a fine giornata. Due di numero. E già non sarebbe male. In mancanza di caritatevoli finanziatori nei tempi morti, tra una fermata della metro e l'altra, un capitolo noioso di "Underworld" e l'altro (perchè dalla prima alla trecentesima pagina sono tutti pesanti allo stesso modo), scorro la Home di Twitter e incappo in una classifica stilata un paio di anni fa da Greenpeace.
+Ad essere bacchettate, questa volta, sono le aziende che producono le scatolette di tonno che tutti impilano negli armadietti delle proprie cucine. Molte di queste aziende
+vengono infatti incolpate di perseguire pratiche di pesca che comportano un impatto notevole sull'ecosistema marino. In base a questo e a molti altri criteri di valutazione, Greenpeace ha espresso il proprio giudizio sui principali marchi che è possibile trovare sui ripiani dei supermercati italiani. Il risultato è il seguente:
+
+{% img /assets/Greenpeace-classifica-tonno.jpg tonno %}
+
+Con mio grande stupore, aprendo l'anta della cucina di casa mia, scopro che le scatolette ordinatamente impilate sulla mensola appartengono proprio a uno di quei marchi da inferno dantesco. Così ripenso a quando, illuso, mi ero convinto che quei pescioloni fossero pescati da una ciurma di capitani McAllister con le mani rotte dalle funi - Ah, che tonn...to!
+
+
+Clicca [quì](http://www.greenpeace.it/tonnointrappola/rompiscatole/index.html) se vuoi saperne di più sulla classifica "Rompiscatole".

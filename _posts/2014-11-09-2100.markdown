@@ -1,0 +1,20 @@
+---
+layout: post
+title: 2100
+date:   2014-11-09 14:20:00
+categories: Blog
+comments: True
+
+tags:
+ - Ambiente
+
+---
+
+Qualche giorno fa è uscito l'ennesimo rapporto sui cambiamenti climatici firmato IPCC (Intergovernmental Panel on Climate Change) che avverte l'umanità dei rischi a cui andremo incontro se non ci diamo da fare subito. Ci ha messo poco a sparire dai giornali, ancora meno del previsto. Un paio di giorni e dalla decima pagina dei quotidiani è passato al televideo per poi andarsene via silenzioso con il suo fagotto di brutte notizie sulle spalle - non vorrà mica allarmare qualcuno! - Avranno pensato redattori e giornalisti vari. Forse si. E forse un po' di strizza aiuterebbe chi non ha sviluppato naturalmente l'istinto di sopravvivenza, quello spirito di autoconservazione che li aiuterebbe a fare due conti, quantomeno a controllare quanto sia distante il 2100 dal 2014. Abbastanza, purtroppo. Quanto basta a far si che, per il momento, il problema non venga considerato troppo dai mezzi di comunicazione. 
+
+{% img /assets/2100.jpg orso %}
+
+Nel frattempo i dati parlano chiaro. L'influenza umana sul riscaldamento globale è ormai appurata e le leggi in vigore in Occidente per l'abbattimento delle emissioni non reggono
+il passo con i gas serra prodotti nei paesi che di queste leggi, a volte comprensibilmente, se ne infischiano (es: USA, Cina). Cosa fare allora? Sperare non serve. Un cambio di mentalità delle generazioni future potrebbe sicuramente aiutare ma finchè non verranno adottate politiche più severe nella riduzione delle emissioni e finchè la ricerca non riuscirà a fornire alternative realmente vantaggiose al consumo di combustibili fossili questi, per forza di cose, continueranno ad essere utilizzati. La speranza quindi, per quanto fumosa possa essere, è che il progresso in questo senso si renda necessario, che i politici aprano gli occhi ed inizino a guardare lontano. Con questo intento è stato diffuso dall'IPCC, il primo Novembre scorso, il [rapporto di sintesi](http://www.ipcc.ch/pdf/assessment-report/ar5/syr/SYR_AR5_SPM.pdf), un documento di una quarantina di pagine che rende attuale il titolo di una canzone dei Moloko di una decina di anni fa, "The time is now". Adesso è il momento di fare qualcosa. Ogni anno che passa è un anno sprecato, una spunta in più agli anni che restano a quella data da colossal apocalittico. Quel simbolico 2100, cifra tonda della nostra attitudine al procrastinamento. 
+
+

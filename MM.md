@@ -1,10 +1,12 @@
 ---
 layout: page
-title: "Il Blog"
+title: "Il blog"
 permalink: /mm/
 comments: False
 weight: 1
 ---
+
+Il blog di MM nasce ad inizio 2013. Per un anno rimane confinato nel limbo digitale, chiuso nello scantinato dei blog in disuso. A fine Marzo 2014 inizia a prendere forma su Blogger. A Settembre la svolta. Dominio nuovo, vita nuova. Tu che lo leggi ricordati, il blog di MM è una bandiera al vento. Parla di ambiente, musica...e anche un po' di tutto il resto. Al blog partecipano:
 
 <div markdown="1" id="img-MM">
 ![MM](/assets/Omino_piccolo.jpg "MM")
@@ -12,9 +14,9 @@ weight: 1
 
 # MM
 
-MM nasce nella provincia di Milano all'inizio degli anni '90. Pare si chiami
+Nasce nella provincia di Milano all'inizio degli anni '90. Pare si chiami
 Marco e studi Ingegneria per l'ambiente e il territorio. Da sempre appassionato
-di scrittura nel 2013 apre un blog che, tra una divagazione e l'altra, parla di ambiente e musica.
+di scrittura nel 2013 apre il blog di MM. E' autore dei testi e della grafica del blog.
 
 <br />
 
@@ -24,6 +26,6 @@ di scrittura nel 2013 apre un blog che, tra una divagazione e l'altra, parla di 
 
 # B-Helper
 
-MM si avvale della collaborazione di uno dei più grandi informatici della Brianza, B-Helper. Di lui 
+Più giovane di MM. Più pratico con l'informatica. E' la spina dorsale del blog. Di lui 
 non è noto né il nome né la fisionomia ma solo il suo innato feeling con qualsiasi linguaggio 
-incomprensibile all'uomo. Solo grazie a lui è stato possibile dar vita a questo spazio. 
+incomprensibile all'uomo. Solo grazie a lui è possibile dar vita a questo spazio. 

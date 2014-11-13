@@ -26,7 +26,7 @@ $grey-color-light: lighten($grey-color, 35%);
 $grey-color-dark:  darken($grey-color, 25%);
 
 $on-palm:          600px;
-$on-laptop:        800px;
+$on-laptop:        1000px;
 
 $normal-width:     1000px;
 
@@ -44,6 +44,13 @@ $normal-width:     1000px;
         @content;
     }
 }
+
+@mixin not-media-query($device) {
+    @media screen and (min-width: $device) {
+        @content;
+    }
+}
+
 
 
 

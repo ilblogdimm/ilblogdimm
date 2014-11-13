@@ -30,12 +30,20 @@ ul {
   margin-left: 0px;
 }
 
-.titolo > li {
+.icone-social > li, .site-title > li {
   display: inline;
   margin: 0 10px;
   list-style-type: none;
 }
 
+
+@include not-media-query(1400px) {
+  .icone-social {
+    position: fixed;
+    top: 50px;
+    left: 20px;
+  }
+}
 
 .site-nav {
   float: left;

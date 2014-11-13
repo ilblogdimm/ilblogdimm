@@ -36,12 +36,18 @@ ul {
   list-style-type: none;
 }
 
-
-@include not-media-query(1400px) {
-  .icone-social {
-    position: fixed;
-    top: 50px;
-    left: 20px;
+@for $i from 0 through 20 {
+  $addleft: $i * 100;
+  $img-width: 100px;
+  @include not-media-query( $normal-width + $addleft + $img-width) {
+    .icone-social {
+      position: fixed;
+      top: 50px;
+      left: #{$addleft / 2.3}px;
+    }
+    .icone-social > li,{
+      display: block;
+    }
   }
 }
 

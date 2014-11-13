@@ -26,6 +26,6 @@ di scrittura nel 2013 apre il blog di MM. E' autore dei testi e della grafica de
 
 # B-Helper
 
-Più giovane di MM. Più pratico con l'informatica. E' la spina dorsale del blog. Di lui 
+Più giovane di MM. Più pratico con l'informatica. E' la spina dorsale del blog, il guardiano del faro. Di lui 
 non è noto né il nome né la fisionomia ma solo il suo innato feeling con qualsiasi linguaggio 
-incomprensibile all'uomo. Solo grazie a lui è possibile dar vita a questo spazio. 
+incomprensibile all'uomo. Solo grazie a lui è stato possibile dar vita a questo spazio. 

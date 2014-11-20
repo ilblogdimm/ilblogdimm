@@ -6,7 +6,9 @@ comments: False
 weight: 1
 ---
 
+<div markdown="1" id="primo-paragrafo">
 Il blog di MM nasce ad inizio 2013. Per un anno rimane confinato nel limbo digitale, chiuso nello scantinato dei blog in disuso. A fine Marzo 2014 inizia a prendere forma su Blogger. A Settembre la svolta. Dominio nuovo, vita nuova. Tu che lo leggi ricordati, il blog di MM è una bandiera al vento. Parla di ambiente, musica...e anche un po' di tutto il resto. Al blog partecipano:
+</div>
 
 <div markdown="1" id="img-MM">
 ![MM](/assets/Omino_piccolo.jpg "MM")
@@ -26,6 +28,6 @@ di scrittura nel 2013 apre il blog di MM. E' autore dei testi e della grafica de
 
 # B-Helper
 
-Più giovane di MM. Più pratico con l'informatica. E' la spina dorsale del blog, il guardiano del faro. Di lui 
-non è noto né il nome né la fisionomia ma solo il suo innato feeling con qualsiasi linguaggio 
-incomprensibile all'uomo. Solo grazie a lui è stato possibile dar vita a questo spazio. 
+Più giovane di MM. Più pratico con l'informatica. E' la spina dorsale del blog, il guardiano del faro. Di lui
+non è noto né il nome né la fisionomia ma solo il suo innato feeling con qualsiasi linguaggio
+incomprensibile all'uomo. Solo grazie a lui è stato possibile dar vita a questo spazio.

@@ -4,7 +4,7 @@ email: ilblogdimm@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Il blog di MM è una bandiera al vento. Parla di ambiente, musica...e anche un po' di tutto il resto.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "ilblogdimm.it" # the base hostname & protocol for your site
+url: "http://www.ilblogdimm.it" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown

@@ -16,6 +16,10 @@ ordine:
   Ambiente: 2
   MusicalMente: 3
   Divagando: 4
+
+atom_feed: "/atom.xml"
+rss_feed: "/rss.xml"
+
 defaults:
   -
     scope:

@@ -7,6 +7,7 @@ sitemap:
 
 <div class="home">
 
+  {% strip %}
   {% for post in paginator.posts %}
   <h1><a class="link-post" href="{{ post.url }}">{{ post.title }}</a></h1>
   <p class="author">
@@ -16,6 +17,7 @@ sitemap:
     {{ post.content }}
   </div>
   {% endfor %}
+  {% endstrip %}
 
   {% if paginator.total_pages > 1 %}
   <div class="pagination">

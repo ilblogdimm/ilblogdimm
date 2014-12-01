@@ -20,6 +20,7 @@
         </svg>
       </a>
 
+      {% strip %}
       <div class="trigger">
         {% assign sorted_pages = (site.pages | sort: 'weight') %}
         {% for page in sorted_pages  %}
@@ -28,6 +29,7 @@
           {% endif %}
         {% endfor %}
       </div>
+      {% endstrip %}
     </nav>
   </div>
 </header>

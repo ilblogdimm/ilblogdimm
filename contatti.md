@@ -5,6 +5,8 @@ permalink: /contatti/
 comments: False
 weight: 5
 showinheader: True
+sitemap:
+  changefreq: never
 ---
 
 Il blog di MM puoi trovarlo anche su:

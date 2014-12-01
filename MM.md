@@ -5,6 +5,8 @@ permalink: /mm/
 comments: False
 weight: 1
 showinheader: True
+sitemap:
+  changefreq: monthly
 ---
 
 <div markdown="1" id="primo-paragrafo">

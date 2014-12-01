@@ -6,11 +6,12 @@
     {% if currentyear != year %}
       {% capture year %}{{currentyear}}{% endcapture %}
       {% unless forloop.first %}</ul>{% endunless %}
-<h3 class="anno-barra">Archivio - {{ currentyear }}</h1>
+<h3 class="anno-barra">Archivio - {{ currentyear }}</h3>
 <ul class="sidebar-list">
     {% endif %}
   <li class="sidebar-elem"><a class="sidebar-link" href="{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
   {% endstrip %}
+</ul>
 </nav>
 </div>

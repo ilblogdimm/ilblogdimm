@@ -15,8 +15,8 @@ Il blog di MM puoi trovarlo anche su:
 * [Twitter](https://twitter.com/IlblogdiMM)
 * [Instagram](http://instagram.com/ilblogdimm)
 
-Se invece nutri un'antipatia profonda nei confronti dei social network puoi scrivere agli indirizzi di posta elettronica che trovi quì sotto. 
-Qualsiasi commento, suggerimento, idea o critica costruttiva è sempre ben accetta. 
+Se invece nutri un'antipatia profonda nei confronti dei social network puoi scrivere agli indirizzi di posta elettronica che trovi quì sotto.
+Qualsiasi commento, suggerimento, idea o critica costruttiva è sempre ben accetta.
 
 
 

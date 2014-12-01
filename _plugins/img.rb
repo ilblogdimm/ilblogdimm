@@ -23,7 +23,8 @@ module Jekyll
       if @img
         output = "<p>\n<div class=\"img-wrapper\">\n"
         output += "<img #{@img.collect {|k,v| "#{k}=\"#{v}\"" if v}.join(" ")}>\n"
-        output += "</div></p>\n"
+        output += "</div>\n"
+        output += "</p>\n"
         "#{output}"
       else
         "Error processing input, expected syntax: {% img [class name(s)] [http[s]:/]/path/to/image [width [height]] [title text | \"title text\" [\"alt text\"]] %}"

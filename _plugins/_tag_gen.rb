@@ -10,6 +10,7 @@ module Jekyll
       self.data['tag'] = tag
       weight_list = site.config['ordine']
       self.data['weight'] = weight_list[tag]
+      self.data['showinheader'] = "True"
       #tag_title_prefix = site.config['tag_title_prefix'] || '&ldquo;'
       #tag_title_suffix = site.config['tag_title_suffix'] || '&rdquo;'
       #self.data['title'] = "#{tag_title_prefix}#{tag}#{tag_title_suffix}"

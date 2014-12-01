@@ -16,3 +16,9 @@ ordine:
   Ambiente: 2
   MusicalMente: 3
   Divagando: 4
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      showinheader: False

@@ -3,7 +3,6 @@ layout: page
 title: Archivio
 permalink: /archivio/
 comments: False
-showinheader: False
 weight: 6
 ---
 <div class="home">

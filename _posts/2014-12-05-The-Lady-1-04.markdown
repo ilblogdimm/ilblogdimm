@@ -1,0 +1,15 @@
+---
+layout: post
+title: The Lady - 1x04
+date:   2014-12-05 15:00:00
+categories: Blog
+comments: True
+
+tags:
+ - Divagando
+
+---
+
+Questa web serie soffiata a Netflix verrà sicuramente ricordata per tanti motivi. Uno di questi potrebbe essere il voler rendere esplicita ogni minima azione dei personaggi, quasi a voler fugare ogni dubbio, qualora ci sia, sulle loro intenzioni. Così la quarta puntata si apre con l'arrivo nella City dell'amichetto fisicato di Lona. Si chiama Marco e, giusto per non lasciar spazio al minimo dubbio, dichiara subito a Giselle di voler diventare "il suo uomo". Ma ormai ci si è talmente abituati a queste uscite che lo scambio di battute successivo "Sorprendimi" - "Sei pazzesco, mi fai ridere" quasi quasi non desta più scandalo. Luca-Luke è riuscito nei suoi propositi persecutori innestando il seme della follia in Lona e Doris (la segretaria, per chi se lo fosse dimenticato) sta facendo le prove per la sua festa di compleanno obbligando Oba, il "dj" (prima di lui avevo sentito chiamare così solo Martins all'Inter, ed era un soprannome) a "mixare" musica tribale da danza del ventre talebana. Il tutto mentre il tipo di Doris ci prova con una misteriosa danzatrice comparsa dal nulla e Antony, per rompere il ghiaccio si toglie la maglietta, praticamente l'unica azione compiuta dal personaggio in queste due puntate. Poi c'è il misterioso cattivo. Lo sfregiato ormai è momentaneamente scomparso, è stato però sostituito da Manuel il quale, a quanto pare molto indebitato, viene stuzzicato da un presunto malavitoso siculo (a questo fa pensare il grottesco accento della voce al telefono) a compiere un qualche reato, si presume ai danni di Lona, ancora ignoto al pubblico. La perla ai porci di questa puntata pende invece dalle labbra di Luca-Luke, il personaggio più forte (da dire alla Celentano) della serie, e recita "Sei un candy di cioccolato". Apocalittico. Anzi, apocalyptico.
+
+{% img /assets/TheLady-1x04.jpg the lady %}

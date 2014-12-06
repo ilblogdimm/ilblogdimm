@@ -1,0 +1,15 @@
+---
+layout: post
+title: The Lady - 1x02
+date:   2014-12-02 15:00:00
+categories: Blog
+comments: True
+
+tags:
+ - Divagando
+
+---
+
+Se la prima puntata vi è sembrata un po' campata per aria, beh dovete iniziare a farci l'abitudine, è proprio questo il leitmotiv della serie. Lona è a Capri, si sveglia e, come chiunque, esce sul balcone in mutande abbandonandosi in pose già ampiamente esplorate dai Vanzina. Ah già è a Capri perchè deve fare un servizio fotografico, meno male che la Lory se ne è ricordata - Fiùùù - Così ecco che arrivano le inquadrature ad un paio di modelle in posa in giardino. Tra un'occhiata sexy al paesaggio e una massima esistenziale prosegue la sfilza di nomi improbabili. Questa volta è il turno di Alejandro, il fotografo disagiato dal nome esotico appena sceso in canotta da un barcone alla deriva. Alejandro ha il physique du role di un venditore di rose con il raffreddore ma in compenso si atteggia molto (o almeno ci prova). Lona continua a subire molestie, anche a centinaia di chilometri di distanza, da Luca-Luc-Luke (è difficilissimo capire quale sia il suo vero nome, ci sta già lavorando un profiler della CIA) ma lui ci tiene a sottolineare che lo fa solo perchè spinto dal suo incontenibile amore. - Ahhh e alloooora, dovevi dirlo subito - Poi Lona cerca di piazzare il suo amico belloccio con la vocina alla Emanuele Filiberto, Giselle si scopre che è a Londra ed è sempre a far un cazzo mezza nuda per la casa, la segretaria Doris, a modo suo, da il via alle selezioni del nuovo bodyguard dicendo di voler innanzitutto premiare l'intelletto, Samir lava i vetri e non capisce un cazzo (anche questa è una coraggiosa scelta artistica della Lory) e Lona fa cose. Selfie sulla barca, foto alle grotte, shopping sfrenato, sguardi ammiccanti, sguardi in terrazza, sguardi a caso. Per fortuna c'è Giselle a consolare Lona. Approposito, se Giselle abita a Londra come farà il nostro belloccio ad uscirci? La trama si infittisce. 
+
+{% img /assets/TheLady-1x02.jpg the lady %}

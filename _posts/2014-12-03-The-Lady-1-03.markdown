@@ -1,0 +1,16 @@
+---
+layout: post
+title: The Lady - 1x03
+date:   2014-12-03 21:30:00
+categories: Blog
+comments: True
+
+tags:
+ - Divagando
+
+---
+
+Dopo Capri prosegue il tour europeo di Lona, che ora si trova a Parigi. Gli sceneggiatori (Lory Del Santo, è bene ricordarlo) decidono così di riempire il vuoto rappresentato dalla sua lontananza da Milano con un nuovo personaggio, Guenda. Stesso chirurgo plastico di Giselle, si scopre che è la socia in affari di Lona e sta organizzando un imperdibile evento per lanciare il suo nuovo profumo, il tutto a spese di Lona. La Lory ce la presenta facendole parcheggiare il suv, macchina per antonomasia della stronza arricchita, in sosta vietata su un marciapiede con un Chihuahua sotto braccio, così, giusto per farci capire la caratura del personaggio.
+Che è una puntata di svolta lo si capisce anche dall'arrivo di un altro personaggio destinato a lasciare il segno, Antonio, il nipote di Lona. Lui vuole essere l'esuberante, il ragazzo tutto energia e cuore con la "o" chiusa. Antonio si presenta a casa di Lona con dei suoi amici letterati, incontra Guenda e, siccome sta diluviando, propone ai suoi compari guasconi di fare una doccia in terrazzo a petto nudo, il tutto mentre Doris prosegue le selezioni, questa volta per scovare la segretaria con l'X Factor, un'altra parata di raffinati intelletti. Poi Lona chiama Giselle per ricordarle che deve farsi il suo amico, Chang apre e chiude la porta dell'ufficio di Doris, il cane di Doris guarda dalla scrivania la scena, allibito (era l'unico nel cast in grado di sembrarlo), sperando di riuscire a ingoiarsi la lingua e Luca/Luc/Luke continua nella sua opera di persuasione a distanza - purtroppo ce la farà. Invece non si hanno più tracce del cattivo. Sarà mica un altro messaggio implicito della serie?
+
+{% img /assets/TheLady-1x03.jpg the lady %}

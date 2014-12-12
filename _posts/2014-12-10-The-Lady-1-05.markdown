@@ -1,0 +1,16 @@
+---
+layout: post
+title: The Lady - 1x05
+date:   2014-12-10 15:00:00
+categories: Blog
+comments: True
+
+tags:
+ - Divagando
+
+---
+
+Nella quinta puntata spunta un amichetto spiantato di Lona, Andrea, di cui evidentemente la Lory sentiva la mancanza, noi un po' meno. Provola un po' a distanza con Lona e si becca subito un ceffone e un "puttaniere" dalla sua ragazza (?) che, a quanto pare, se ne stava ad ascoltare nascosta dietro allo stipite della porta, una tipa anonima truccata al buio e subito sottomessa alla tenerezza del suo bello. Lona intanto continua a vagare per la città ma ecco che arriva la scena memorabile di questa puntata. Finalmente qualcosa di notevole. Adesso siamo nella solita palestra frequentata sempre dai soliti due, il coach gonfio come un dirigibile e il cliente impiccione. I più attenti avranno notato sullo schermo della macchina utilizzata da quest'ultimo un inspiegabile balletto di numeri. Le spiegazioni possono essere due, o hanno dovuto girare la scena tre volte per renderla decente oppure l'intera troupe è stata contattata per due volte di fila dagli alieni che, come spiega Fox Mulder nella seconda puntata di X-Files, possono mandare avanti e indietro il tempo a loro piacimento. Io propendo per la seconda.
+Poi c'è la travolgente love story di Giselle, detta la riservata, che viene sommersa di regali e allusioni sessuali più o meno velate, un tizio senza nome che telefona a Lona, un altro tizio misterioso che si sveglia in albergo e sfoglia per 1,5 secondi il Corriere della Sera, Doris che accarezza quel maledetto cagnolino sghignazzante e infine il tributo al maestro Moccia con una foto scattata da qualche parte ai soliti lucchetti. E alla fine non succede niente neanche oggi. Come da copione.
+
+{% img /assets/TheLady-1x05.png the lady %}

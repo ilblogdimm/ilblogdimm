@@ -1,0 +1,15 @@
+---
+layout: post
+title: The Lady - 1x07
+date:   2014-12-15 23:30:00
+categories: Blog
+comments: True
+
+tags:
+ - Divagando
+
+---
+
+Londra, Parigi, Milano, adesso anche Miami. Questa serie è più internazionale di Homeland, più passionale di Beautiful, più sdolcinata di un candy di cioccolato. Ma adesso non si gioca più. A Miami c'è una spia così professionale da far impallidire James Bond, lavora per un mafioso (non viene dichiarato esplicitamente ma lo si deduce dall'accento siculo) e deve fare qualcosa. Di più non si sa. Si aggira in pantaloncini per la città, parla al cellulare e contatta un suo amico, un avvocato e Andrej (?). Come tutti i personaggi della serie passa più tempo al cellulare che a combinare realmente qualcosa. Alla fine si capisce che si trova negli States per ritirare una valigia che dovrà portare da qualche altra parte. Intanto a Giselle sale la paranoia e corre dal chirurgo plastico, Lona torna in Padania fra i bicipiti di Luca-luke e alla nostra cara Lady vengono suggeriti dei "compromessi" dal suo commercialista da asporto di fiducia. Per il resto è il nulla. La sigla alla American Pie e le ambientazioni, americane anche queste, non hanno aggiunto niente di niente, hanno solo spalmato ancora di più la storia, sempre che questa esista. E io continuo ad essere curioso di sapere che fine ha fatto lo sfregiato di piazza Gae Aulenti. In tre puntate riuscirà a combinare qualcosa di losco? Incrociamo le dita.
+
+{% img /assets/TheLady-Pilot.jpg the lady %}

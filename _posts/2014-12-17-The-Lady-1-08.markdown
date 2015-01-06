@@ -1,0 +1,16 @@
+---
+layout: post
+title: The Lady - 1x08
+date:   2014-12-17 14:00:00
+categories: Blog
+comments: True
+
+tags:
+ - Divagando
+
+---
+
+
+In questo periodo dell'anno c'è chi apre le cellette del calendario dell'avvento e chi come me aspetta il Natale guardando dieci minuti ogni tanto di The Lady. Oggi viene aperta la terzultima celletta della serie. In questa puntata Lona dà finalmente voce alla sua vena creativa iniziando a scrivere un libro sull'amore. Per farlo ha bisogno di chiedere consigli e suggerimenti a gente competente. Tra le tante figure di spicco interpellabili, la frequentazione dei circoli letterari di tutto il mondo porta Lona a contattare Martinique, la new entry della puntata, una ragazza in costume da bagno seduta su una sedia verde da giardino sul retro di una casetta di legno immersa in un paesaggio arido. Una scena che sicuramente vuole scavare la superficie mostrandoci i contrasti, l'incoerenza del mondo, la convivenza di fatti così conflittuali. Ma magari no, forse vuole soltanto dirci che Martinique è una modella come un'altra che passa le sue giornate a far asciugare lo smalto delle unghie parlando al telefono con Lona. La Lady infatti è ossessionata da questioni sentimentali più grandi di lei e sottopone all'amica intellettuale questioni del tipo - "Pensi che ci si possa innamorare più di una volta" - ottenendo una risposta abbastanza complessa - "Sì, penso sia possibile, dipende in che esatto momento accade nella vita" - Una riflessione saggia e quantomai vera. D'altronde come contraddirla, se ci si innamora per la prima volta l'istante prima di avere un infarto le probabilità che ci si possa innamorare di nuovo da vivi (posto che non ci sia una vita ultraterrena) calano drasticamente. Insomma ci si può innamorare più di una volta, sostiene Martinique, ma solo a patto che vengano rispettate certe ipotesi iniziali (es: sana costituzione fisica, giovane età...). Poi il colpo di scena. Ricompare "lo sfregiato". Con un mini pugnale alla Assassin's Creed pedina Lona in prossimità di piazza Gae Aulenti. Furtivo, schivo, inquietante. La tensione è palpabile. Lona sa di essere alle strette, qualcuno la sta seguendo e lei l'ha capito. La Lady ha paura e si sente indifesa, nonostante la presenza di Antonio, forse proprio per colpa di Antonio che non intuisce la gravità del momento. Ma...puff!! Il cattivo è già svanito. E con lui l'angoscia di questi momenti. Ultima nota importante. Antony mette in luce l'ultimo cliché di certi ambienti molto mascolini e virili. Viene approcciato da un trans. Indovinate un po' il finale.                            
+
+{% img /assets/TheLady-1x08.png the lady %}

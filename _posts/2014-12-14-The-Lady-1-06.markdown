@@ -1,0 +1,15 @@
+---
+layout: post
+title: The Lady - 1x06
+date:   2014-12-14 15:00:00
+categories: Blog
+comments: True
+
+tags:
+ - Divagando
+
+---
+
+Se all'inizio della serie abbiamo pensato ci potesse essere un filo logico in grado di collegare le puntate e legare coerentemente i personaggi adesso è il momento di dimenticare questi due termini, logica e coerenza. Non appartengono alla serie e rischiano di farci impazzire nel tentativo di riavvolgere nel verso giusto la matassa narrativa. In questa puntata entrano in scena talmente tanti personaggi da far girare la testa. Il più interessante è un tale che come ambizione personale ha quella di volersi mettere con una donna in grado di "stordire la mia vita". E chi meglio di Lona può stordirgli la vita? Nessuno, così un'altra tizia imbucata dall'accento sudamericano lo invita a mettersi con la Lady svelandogli che Lona era una poveraccia diventata ricca solo in seguito al matrimonio. Morto il marito Lona ha ereditato un'agenzia pubblicitaria "che ha sede in tutto il mondo" e ha cominciato a mietere i cuori dei suoi spasimanti. Ma per fortuna c'è Antony a rendere giustizia alla carriera di Lona. Lui sa di essere fortunato ad avere una zia miliardaria e non lo nasconde, forse perchè sa anche che senza di lei a quest'ora passerebbe le giornate a compilare moduli per le domande di lavoro. O forse sa di essere fortunato ma deve ancora capire il perchè. Qualcosa fa sospettare che difficilmente ci potrà arrivare da solo. Insomma questa è una puntata dominata dagli arrivisti e se ne ha la conferma poco dopo quando l'appartamento milanese di Lona diventa una passerella per ballerini da strapazzo e sciacquette da seconda serata. A margine della puntata il filone narrativo londinese, la parentesi più interessante della serie. Giselle e il suo corteggiatore, di cui non ricordo più il nome, si prodigano in dialoghi altissimi, purissimi e profondissimi zeppi di passione sporca come la nafta. Ma molto divertente. Sui titoli di coda gli States. E già sognamo.
+
+{% img /assets/TheLady-1x06.jpg the lady %}

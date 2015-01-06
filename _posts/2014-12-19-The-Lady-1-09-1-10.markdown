@@ -1,0 +1,16 @@
+---
+layout: post
+title: The Lady - 1x09 & 1x10
+date:   2014-12-17 14:00:00
+categories: Blog
+comments: True
+
+tags:
+ - Divagando
+
+---
+
+Arriva sempre l'ora dei saluti, anche per le serie di successo. La Lory ha deciso di salutarci così, con due puntate zeppe di personaggi, comparse, ambientazioni nuove, seguendo il flusso della stagione, esasperando quei sottilissimi fili di trama tessuti in modo dilettantesco ed incoerente. E così ci si ritrova catapultati in men che non si dica a Miami nelle mani di Andrej, senza scopo, senza che ci sia un motivo particolare per cui si debba seguire la storia di questo personaggio. Non si sa perchè Andrej è lì, non si sa cosa sta combinando, probabilmente anche lui non sa cosa fare visto il tempo che dedica a pedinare personaggi famosi e fare flessioni. Neanche il tempo di pensarci su ed ecco che si viene trasportati a Los Angeles a conoscere una nuova coppia di celebrità decadute alle prese con una profonda crisi matrimoniale, quindi si assiste alle continue menate sentimentali di Lona farcite di monologhi, sempre gli stessi, conditi con banalità e luoghi comuni. Non che ci aspettassimo qualcosa di diverso. E Si procede in ordine sparso. Si salta in un secondo da una parte all'altra dell'Atlantico, dall'ufficio di Doris alla camera d'albergo di Andrej, poi ci si ritrova Manuel in mezzo alle scatole e si scopre che anche Andrej è innamorato di Lona, che Doris ha capito di essere innamorata della persona sbagliata e Lona e il suo "commercialista" stanno facendo qualche giochino finanziario negli Stati Uniti ma è tutto confuso e il risultato è che non si capisce un bel nulla di niente. Non c'è una sottotrama conclusa, un cattivo sconfitto, un buono sopraffatto. C'è solo una scena mistica, l'incontro su photoshop di Luca-Luke e Lona, quattro inquadrature dementi, il titolo di coda e l'avvertimento finale - Ma per chi ama...continua... - No dai, finiamola qua che è meglio. Addio The Lady.
+
+{% img /assets/TheLady-1x09-1x10.jpg the lady %}
+

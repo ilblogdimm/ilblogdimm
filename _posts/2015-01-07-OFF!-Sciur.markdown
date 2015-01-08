@@ -1,0 +1,26 @@
+---
+layout: post
+title: OFF!...Sciur
+date:   2015-01-07
+categories: Blog
+comments: True
+
+tags:
+ - MusicalMente
+
+---
+
+{% img /assets/OFF.jpg OFF %}
+
+Anno nuovo, artisti...vecchi. Qualche anno fa per caso, probabilmente scrivendo male un autore nella barra di ricerca di Youtube, ho scoperto gli *OFF!*, un gruppo hardcore punk nato nel 2009 dalle ceneri dei *Circle Jerks* su iniziativa di Keith Morris. Morris è un tipaccio che ha passato i sessanta con i dread lunghi fino alle natiche, un ex alcolizzato matto come un cavallo. E questo basta a renderlo un tipaccio interessante. Nel '76 fonda assieme a Greg Gin i *Black Flag*, da cui se ne va tre anni più tardi per dar vita ad un nuovo gruppo, i *Circle Jerks*. Siamo a Los Angeles negli anni d'oro del punk e presto questi due gruppi diventeranno delle band di culto della scena underground losangelina. La loro musica è energica, rabbiosa, violenta, hardcore punk annaffiato di alcol ed eroina.
+
+{% img /assets/OFF2.jpeg OFF %}
+
+Una testimonianza di quegli anni e di quell'ambiente è fornita da Anthony Kiedis (Red Hot Chili Peppers) nella sua autobiografia "Scar Tissue" datata 2005: 
+
+*"Una volta ci infilammo a un concerto dei Black Flag. Eravamo dei pesci fuor d'acqua. Ci piacevano quei gruppi, ma eravamo vestiti nel modo sbagliato, avevamo il taglio di capelli sbagliato, le scarpe sbagliate, e nemmeno ballavamo come tutti quei punk. Questi tipi avevano degli stivali davvero fighi, con le catene, la giusta combinazione di vestiti di tessuto scozzese strappati e il taglio di capelli con le creste. Io e Mike eravamo già fortunati ad avere una giacca di pelle in due. Lo spettacolo dei Black Flag fu strepitoso. Sul palco c'era un tipo, un certo Mugger, incaricato della sicurezza. Ogni volta che qualcuno cercava di saltare su, ballare un po' e poi saltare di nuovo giù, Mugger semplicemente lo respingeva a pugni. Mentre tutto questo accadeva, il gruppo non perdeva un colpo. Un tale cercò ancora di superare lo sbarramento di Mugger, ma volò letteralmente di sotto e io mi presi un calcio in testa dalle sue scarpe con la punta di metallo. Ci mancò poco che svenissi."*
+
+{% youtube VIJfFwsvUm8 %}  
+
+<br>L'ultimo album firmato *Circle Jerks* è *Oddities, Abnormalities and Curiosities*, datato 1995. Poi più niente. I *Circle Jerks* non si sciolgono ma non producono più e così nel 2009 nascono i ben più prolifici *OFF!* che vantano ad oggi tre album e un tour che quest'estate toccherà anche l'Italia e più precisamente Milano. I quattro svitati, Keith Morris (voce), Dimitri Coats (chitarra elettrica), Steven Shane McDonald (basso elettrico) e Mario Rubacalba (batteria), suoneranno infatti al Legend Club di Milano il 26 Giugno. Un appuntamento da non perdere, consigliato ai fun punkettoni che hanno ormai consumato *Ramones* e a quelli come me che di punk non ne masticano molto ma in un modo o nell'altro se lo ritrovano sempre fra i piedi. Nel frattempo, buon anno!<br>
+

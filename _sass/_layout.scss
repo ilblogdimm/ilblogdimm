@@ -42,7 +42,7 @@ ul {
   @include not-media-query( $normal-width + $addleft + $img-width) {
     .icone-social {
       position: fixed;
-      top: 155px;
+      top: 175px;
       left: #{$addleft / 2.3}px;
     }
     .icone-social > li,{

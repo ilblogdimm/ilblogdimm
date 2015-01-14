@@ -165,7 +165,7 @@ pre {
 	  padding-top: 20px;
     @extend %clearfix;
 	background-color: $wrapper-color;
-	
+
 
     @include media-query($on-laptop) {
         max-width: -webkit-calc(#{$normal-width} - (#{$spacing-unit}));
@@ -173,6 +173,10 @@ pre {
         padding-right: $spacing-unit / 2;
         padding-left: $spacing-unit / 2;
     }
+}
+
+header > .wrapper {
+    padding-bottom: 20px;
 }
 
 .home {

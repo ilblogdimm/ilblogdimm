@@ -8,10 +8,10 @@ sitemap:
 
   {% strip %}
   {% for post in paginator.posts %}
-  <h1><a class="link-post" href="{{ post.url }}">{{ post.title }}</a></h1>
   <p class="author">
   <span class="date">{{ post.date | date: "%B %d, %Y" }}</span>
   </p>
+  <h1><a class="link-post" href="{{ post.url }}">{{ post.title }}</a></h1>
   <div class="content">
     {{ post.content }}
   </div>

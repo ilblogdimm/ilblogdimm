@@ -8,7 +8,10 @@ dl, dd, ol, ul, figure {
     padding: 0;
 }
 
-
+@font-face {
+    font-family: "Candara";
+    src: url('fonts/Candara.ttf') format('truetype');
+}
 
 /**
  * Basic styling

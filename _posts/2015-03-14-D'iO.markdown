@@ -1,7 +1,7 @@
 ---
 layout: post
 title: D'iO
-date: 2015-03-14 14:30:00
+date: 2015-03-17 21:30:00
 categories: Blog
 comments: True
 
@@ -10,5 +10,13 @@ tags:
 
 ---
 
-Poco più di un mese fa, il 2 Febbraio, è uscito D'iO, il sesto album in studio di Dargen D'Amico. Scrivere di Dargen D'Amico è complicato.
+Poco più di un mese fa, il 2 Febbraio, è uscito *D'iO*, il sesto album in studio di *Dargen D'Amico*. Chi spera in un collegamento tra questo lavoro e i precedenti
+rimarrà deluso. *D'iO* è un album pesato, fatto di melodie pop e bit elettronici, ritornelli radiofionici e strofe intricate ricamate attorno a doppie letture e interpretazioni parallele. Condivide a tratti la leggerezza di *Vivere aiuta a non morire*, ha molto poco in comune con *CD'* e *Di vizi di forma virtù*. La costante rimane il linguaggio del tutto unico nel panorama musicale italiano che vede l'accostamento di parole e significati distanti nell'immaginario comune e avvicina l'ascoltatore al circo di parole di Dargen D'Amico spingendolo alla ricerca di significati nuovi, in alcuni casi probabilmente estranei anche allo stesso artista. *D'iO* è un album di storie e personaggi assurdi (*Las Vegas Honey Moon*), precariato e quotidiana insicurezza (*La mia generazione*). Parla degli ultimi vent'anni, di Milano che in fondo l'ha cresciuto. Fa riflettere con il sorriso sulle labbra, oppure fa riflettere e basta, vedi *Modigliani*. *D'iO* è il disco di presentazione al grande pubblico, l'invito ufficiale all'ascolto di *Dargen D'Amico*. E' l'ultimo tassello dell'*Edizione Enciclopedica* contenente tutto ciò che l'artista milanese ha prodotto fino ad oggi. Va ascoltato con calma al riparo da giudizi affrettati. Deve essere metabolizzato, consumato nel comfort del proprio lettore musicale. A differenza di *Vivere aiuta a non morire* non ci sono collaborazioni con altri artisti, è un album incentrato su *Dargen*, costruito tutto attorno a lui, da lui, come dimostra il video del terzo singolo estratto, *Essere non è da me*, autoprodotto e girato dall'artista stesso qua e là per il mondo.
+
+{% img /assets/dargen.jpg dargen %}
+
+*Dargen D'Amico* non è classificabile. E' un rapper che fa canzoni pop o un cantante pop che fa rap o più probabilmente tutte e due le cose assieme. Mette in difficoltà i critici che non riescono a infilarlo nelle categorie musicali preconfezionate e poi li salva definendosi in un'intervista un "cantautorap". Ecco la categoria ad hoc. *Dargen D'Amico* è un'artista fluido che protegge la timidezza con le lenti a specchio, un faro sul mondo e i suoi cambiamenti, un autore originale che riesce ad alternare profondità e leggerezza senza incorrere in banalità e giri di parole scontati. E' un oblò sul futuro della musica, un autore snobbato dai nostalgici dei suoni passati che sa affezionare i suoi ascoltatori e *D'iO* forse non sarà la creazione perfetta ma rappresenta un punto di arrivo importante per un'artista che ha scritto e detto tanto ripetendosi poco, varcando confini musicali inesplorati, osando, al di là del pensiero comune. Proprio perchè questo esiste, andando controcorrente non per moda ma per attitudine. 
+  
+
+
 

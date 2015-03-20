@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Lady - 1x09 & 1x10
+title: The Lady - 1x09 &amp; 1x10
 date:   2014-12-17 14:00:00
 categories: Blog
 comments: True

@@ -21,20 +21,11 @@ sitemap:
   {% if paginator.total_pages > 1 %}
   <div class="pagination">
     {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Pagina Precedente   </a>
-    {% else %}
-    <span>&laquo; Pagina Precedente</span>
+    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}"><img src="/assets/Left_arrow.png" alt="Mountain View"></a>
     {% endif %}
 
-
     {% if paginator.next_page %}
-
-    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">   Pagina Successiva &raquo;</a>
-
-    {% else %}
-
-    <span>Pagina Successiva &raquo;</span>
-
+    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}"><img src="/assets/Right_arrow.png" alt="Mountain View"> </a>
     {% endif %}
   </div>
   {% endif %}

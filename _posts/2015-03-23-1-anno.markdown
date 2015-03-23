@@ -23,3 +23,5 @@ Hai ragione ma quando torna lui non glielo dire così, piuttosto evita, al massi
 Beh tu l'hai già comprato il bluray del film? Se non l'hai già fatto corri...se non basterà ci inventeremo di meglio o di peggio, insomma a qualcosa penseremo. Non oggi però. Oggi si festeggia. 
 
 {% img /assets/Metallica-bankrupt.jpg  bankrupt %} 
+
+Clicca [*quì*](http://www.rockol.it/news-642744/metallica-quasi-in-bancarotta-secondo-i-biografi-brannigan-e-winwood) per leggere l'articolo di rockol sui Metallica.

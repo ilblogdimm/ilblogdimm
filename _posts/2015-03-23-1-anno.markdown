@@ -1,0 +1,25 @@
+---
+layout: post
+title: 1 anno
+date:   2015-03-23 13:00:00
+categories: Blog
+comments: True
+
+tags:
+ - Divagando
+
+---
+
+Stai fermo eh! Così, mi raccomando ancora un secondo, guarda di qua, sorridi e...fatta! Nella foto del primo compleanno del blog c'è lui, un omino sempre di fretta con la candelina della torta accesa in bocca. Anche se tendenzialmente non fuma quest'anno ha deciso che, da oggi, il giorno del suo compleanno si concederà il vizio di una candelina per ogni anno compiuto. Insomma quest'anno una, l'anno prossimo due, quello dopo tre e così via fino ad arrivare a battere un giorno il record mondiale di sigarette contemporaneamente accese in bocca. Solo che al posto delle sigarette ci saranno le candeline e le complicazioni dovute alla cera bollente sulle labbra. 
+- Pfff, certa gente si farebbe pagare per fare certe cose e lui fa lo snob. - Ma non è che fa lo snob, lo fa perchè va di fretta e non ha tempo di comprarsi una torta per festeggiare così si accende una candela e il festeggiamento è fatto! 
+- Mmh si, mi sfugge un po' la logica ma fai come se avessi capito. -
+Ma si non c'è niente da capire, penso fosse solo un modo come un altro per dire che c'è da festeggiare un anno di vita del blog. Fine. E poi io ho fatto solo la foto, se non ti sta bene cosa fa il giorno del suo compleanno scrivigli una mail e non mi stressare l'anima con le tue paturnie. Te l'ho mai detto che a volte sei così noioso che mi sembri lui? - Ah si? Pensa che avrei detto lo stesso di te. Tu però sei molto meno simpatico, parli molto di più e hai molto poco da fare. E adesso che hai fatto sta foto non me la menare con l'arte che tanto lo so già che dopodomani cadrai nel girone infernale dei primi piani al sushi o al Duomo di Milano. -
+Tu invece sei un rompicoglioni incattivito! Ma è possibile che non si riesca mai a dire una cosa senza che tu ci costruisca attorno una cattiveria? Ti potessero rinchiudere per sbaglio in qualche edificio da demolire.
+- E poi sarei io il maligno... -
+Approposito di cattiverie, hai sentito che i Metallica sembra siano in bancarotta? Mi raccomando non dire niente all'omino che poi si prende male e finisce che non si gode neanche il suo primo compleanno.
+- Si ma guarda che tanto lo scoprirà...che poi se ci pensi, va bene la fama, i fan e l'attaccamento alla maglia ma che ci fosse qualche motivo economico dietro ai tour europei di questi anni si poteva immaginare. Poi sta cazzata del film, l'Orion Music Festival, insomma i soldi son quelli e se li regali prima o poi finiscono. -
+Hai ragione ma quando torna lui non glielo dire così, piuttosto evita, al massimo lo scopre e metabolizza la catastrofe da solo. Altrimenti mettigliela giù così. Digli che un giornalista sul lastrico, depresso per via della sua disastrosa situazione economica, ha tratto spunto dalla propria vita, fallimentare, per montare questa notizia che nel suo immaginario distorto avrebbe dovuto salvarlo dal disastro esistenziale.
+- Facciamo che gliela racconti tu e io faccio da spalla. Ma se poi vanno in bancarotta per davvero? -
+Beh tu l'hai già comprato il bluray del film? Se non l'hai già fatto corri...se non basterà ci inventeremo di meglio o di peggio, insomma a qualcosa penseremo. Non oggi però. Oggi si festeggia. 
+
+{% img /assets/Metallica-bankrupt.jpg  bankrupt %} 

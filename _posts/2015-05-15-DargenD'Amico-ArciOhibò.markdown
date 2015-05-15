@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Dargen D'Amico - Arci Ohibò - 09/05/15
-date:   2015-05-15 16:15:00
+date:   2015-05-15 16:30:00
 categories: Blog
 comments: True
 
@@ -10,7 +10,7 @@ tags:
 
 ---
 
-Il clima è tropicale. Il locale è grande ma ci sono troppe persone e nessuna finestra. I tre ventilatori in croce muovono l'aria scaldata da tutti quei corpi ammassati l'uno contro l'altro. Più che rinfrescare diffondono una specie di scirocco che porta l'aria calda avanti e indietro per la sala aggiungendo, con il passare del tempo, aromi di ascella metropolitana e ciabatta di gomma dura coi buchi. Non c'è deodorante che tenga. Il clima è pesante. All'afa si aggiunge l'arsura provocata dall'impianto luci. Sembra di stare in uno spiazzo di cemento a Manaus. La voglia di evadere è forte. La sensazione è di essere una medusa sdraiata sul bagnasciuga. Nel mio caso il logo sintetico della t-shirt che indosso si sta incollando alla pelle. *"Dannazione, lo sapevo che avrei fatto una cazzata a mettere questa maglietta in un locale seminterrato"*.
+Il clima è tropicale. Il locale è grande ma ci sono troppe persone e nessuna finestra. I tre ventilatori in croce muovono l'aria scaldata da tutti quei corpi ammassati l'uno contro l'altro. Più che rinfrescare diffondono una specie di Scirocco che porta l'aria calda avanti e indietro per la sala aggiungendo, con il passare del tempo, aromi di ascella metropolitana e ciabatta di gomma dura coi buchi. Non c'è deodorante che tenga. Il clima è pesante. All'afa si aggiunge l'arsura provocata dall'impianto luci. Sembra di stare in uno spiazzo di cemento a Manaus. La voglia di evadere è forte. La sensazione è di essere una medusa sdraiata sul bagnasciuga. Nel mio caso il logo sintetico della t-shirt che indosso si sta incollando alla pelle. *"Dannazione, lo sapevo che avrei fatto una cazzata a mettere questa maglietta in un locale seminterrato"*.
 
 {% img /assets/Edipo.jpg Edipo %}
 
@@ -23,7 +23,7 @@ L'album più suonato è *D'iO*, l'ultimo lavoro dell'artista milanese uscito a i
 
 {% img /assets/JD'.jpg JD' %}
 
-A *Dargen D'Amico* si perdona tutto. Ci si dimentica dell'afa e dei soldi spesi per la tessera Arci. Si giustificano l'improvvisazione e le pause, a volte troppo lunghe, tra una canzone e l'altra con l'unicità della sua ironia e del suo modo di scrivere, con quegli occhiali a specchio perennemente indossati. Se potessi riavvolgere il nastro e ritornerare a sabato scorso cambierei solo due cose. Aggiungerei alla scaletta il duetto con *Edipo* annunciato per almeno dieci minuti e non realizzato per mancanza dell'usb contenente il brano (le consultazioni con il backstage e lo smanettamento al mixer hanno reso credibile la motivazione) e una canzone, *Van damme*, che non sono mai riuscito ad ascoltare dal vivo e a quanto pare non è neanche tra le più richieste dal pubblico. Per il resto ripeterei tutto, magari il 1 Giugno al *Big Bang Music Fest* di Nerviano (Mi). Magari con un po' più di ossigeno. Chi lo sa.
+A *Dargen D'Amico* si perdona tutto. Ci si dimentica dell'afa e dei soldi spesi per la tessera Arci. Si giustificano l'improvvisazione e le pause, a volte troppo lunghe, tra una canzone e l'altra con l'unicità della sua ironia e del suo modo di scrivere, con quegli occhiali a specchio perennemente indossati. Se potessi riavvolgere il nastro e ritornerare a sabato scorso cambierei solo due cose. Aggiungerei alla scaletta il duetto con *Edipo* annunciato per almeno dieci minuti e non realizzato per mancanza dell'usb contenente il brano (le consultazioni con il backstage e lo smanettamento al mixer hanno reso credibile la motivazione) e una canzone, **[*Van damme*](https://www.youtube.com/watch?v=OKPMZ8rIY-M)**, che non sono mai riuscito ad ascoltare dal vivo e a quanto pare non è neanche tra le più richieste dal pubblico. Per il resto ripeterei tutto, magari il 1 Giugno al *Big Bang Music Fest* di Nerviano (Mi). Magari con un po' più di ossigeno. Chi lo sa.
 
 Il consiglio per il weekend è di ascoltare questa canzone di *Murubutu*. *Murubutu* è un rapper che insegna filosofia e storia al liceo classico. Si vocifera che di questi individui ne nasca uno ogni dodicimila anni. L'anno scorso è uscito *Gli ammutinati del bouncin'*, il suo ultimo disco. Questa è forse la canzone più bella dell'album. Vi farà scendere la lacrimuccia. 
 

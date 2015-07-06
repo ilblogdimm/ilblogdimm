@@ -1,0 +1,20 @@
+---
+layout: post
+title: Glastonbury 2015
+date:   2015-07-04 12:00:00
+categories: Blog
+comments: True
+
+tags:
+
+ - MusicalMente
+
+---
+
+Anche questa edizione del *Glastonbury Festival* è passata. *Pharrell Williams* ha esibito un bel paio di risvoltini ma provate a dargli del finocchio. E adesso che ci stai pensando il suo nuovo singolo, **[*Freedom*](https://www.youtube.com/watch?v=n_tXteMTmwE)**, ti è gia entrato nel cervello. Spera in una qualche forma di alzheimer selettivo. Dimentica di vestirti come *Kanye West*, lascia a casa collane e giacche importanti piuttosto impara a tenere il palco da solo come lui. Un paio di ore di pettorali, luci intermittenti, nuvole di fumo artificale, invasione di palco, discorso accorato sui suoi amori passati e ascesa al cielo a cavallo di una gru perchè lui il cielo lo tocca per davvero, non solo con le canzoni (**[*Touch the sky*](https://www.youtube.com/watch?v=uz9SrkOvLMs)**). Nonostante le critiche pre-festival rimane una delle scelte più azzeccate in un panorama musicale anestetizzato da band del Giurassico e da un rock che, salvo rarissime eccezioni (*Arctic Monkeys?*), più passa il tempo e più sa di vecchio.
+
+{% img /assets/KanyeWest.jpg west %} 
+
+Ci sono stati i baffoni di *Lemmy* dei *Motorhead* che a ritirarsi non ci pensa neanche per scherzo, il ritorno degli *Who* e *Mark Ronson* con la sua **[*Uptown Funk*](https://www.youtube.com/watch?v=j3y361HfpSE)** che da qualche tempo pare sia stato elevato a genio incontrastato della musica. *George Ezra* con il suo vocione tenebroso canta **[*Did you hear the rain*](https://www.youtube.com/watch?v=N1BzSmvKAVY)**, un pezzo un po' più rock del solito, *Lionel Richie* intrattiene con i suoi balli di gruppo da villaggio turistico romagnolo mentre *Paloma Faith* è vecchia dentro e sogna il ballo di fine anno ma non di quest'anno, di fine anni '50. I *Libertines* sono acclamatissimi così come i *Florence and the Machine*, gli headliners di venerdì 26 Giugno. Promossi a pieni voti i *Chemical Brothers* che qualsiasi cosa facciano riescono sempre a far ballare di sè. Qualche giorno dopo (qualche giorno fa) hanno anche suonato in Italia. Per il resto è stato il solito elenco sterminato di artisti. *Jamie XX*, *James Bay*, *Clean Bandit*, *Hozier*, *Deadmau5*, *Patty Smith* e altre decine di musicisti/gruppi/cantanti che noi non vediamo comparire sul sito di ticketone nemmeno in un anno. Buttando un'occhio al variopinto manifesto del festival sono incappato in un musicista canadese con un nome strano che avevo già sentito/letto da qualche parte e mi ricordava una qualche antilope. Si chiama Caribou (e in effetti Wikipedia rivela che il Caribou è parente del cervo). Il 28 Maggio scorso ha suonato al Circolo Magnolia a due passi da Milano. Caribou fa musica elettronica ed è uno degli artisti più chiacchierati del momento (**[*quì*](http://www.theguardian.com/music/2014/oct/04/caribou-dance-music-isnt-just-escapism-its-about-life)** trovate una bella intervista pubblicata un po' di mesi fa sul *Guardian*). L'anno scorso è uscito il suo ultimo lavoro dal titolo *Our Love*. Una decina di giorni fa si è esibito al Glastonbury davanti ad una distesa di bandiere e braccia alzate sfoggiando un look da *colpevole sopravvissuto*. Avete presente *The Leftovers*? Ecco uguale, ma con meno sigarette e qualche nota in più.
+
+{% youtube Fo_fQ45wtCI %} 

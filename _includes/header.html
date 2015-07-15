@@ -18,12 +18,11 @@
 
       {% strip %}
       <div class="trigger">
-        {% assign sorted_pages = (site.pages | sort: 'weight') %}
-        {% for page in sorted_pages  %}
-          {% if page.showinheader %}
-          <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-          {% endif %}
-        {% endfor %}
+        <img src="/assets/il blog.png" />
+        <img src="/assets/interviste1.png" />
+        <img src="/assets/le cuffie.png" />
+        <img src="/assets/archivio.png" />
+        <img src="/assets/contatti1.png" />
       </div>
       {% endstrip %}
     </nav>

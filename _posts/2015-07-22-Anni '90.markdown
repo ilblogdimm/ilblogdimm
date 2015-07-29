@@ -1,0 +1,25 @@
+---
+layout: post
+title: 13th floor
+date:   2015-07-23 12:00:00
+categories: Blog
+comments: True
+
+tags:
+
+ - MusicalMente
+
+---
+
+Tanti album meritevoli di attenzione escono a fine estate. Chi è che ha il coraggio di lanciare un album che ha richiesto mesi di scrittura, prove, registrazioni, incisioni e stampe nel bel mezzo della bufera di tormentoni estivi? L'estate sarà anche la stagione buona per certi successi radiofonici ma non sono molti i pezzi che la superano. La maggior parte di loro fa la fine dei soldati semplici su Omaha Beach. Qualche passo ed è già finita. Altri brani sono figli di artisti che attorno ad una stagione costruiscono la carriera, vedi *Giuliano Palma*, vedi *Michael Bublè*. Ma non tutti possono permettersi il ritornello facile. Se non si è bravi a gestirlo può pregiudicare una carriera, se prima non si è pasturato bene quando si lancia l'esca grossa si rischia di fare un buco nell'acqua. Un tonfo sordo e tutti i pesci scivolano via e si finisce per guardare il galleggiante ondeggiare placido fino a quando è tempo di tirare su tutto e tornare a lavorare. 
+Così come al cinema si assiste alle repliche dei bei film usciti durante l'anno, queste settimane possono servire a riscoprire cose successe tempo fa. Un suggerimento? Gli *Outkast*. *André 3000* e *Big Boi* non pubblicano un album dal 2006 ma l'anno scorso hanno fatto un giro di palchi che ha toccato tutti gli angoli del pianeta. Tranne l'Italia. 
+
+{% img /assets/Outkast2.jpg Outkast %}
+
+Sicuramente nove anni sono tanti. Si potrebbe pensare ad un duo arrugginito, stanco, riportato sotto ai riflettori per motivi discografici o perchè al verde. Le voci spente, corde vocali scariche e fisicità perduta. I quarant'anni alla porta, altri progetti in ballo, altre strade già intraprese che portano lontano dal southern rap e dalla periferia di Atlanta. Niente di tutto questo. I concerti non si spiegano, non si filmano, si guardano e si ascoltano. Ogni concerto ha dei punti nevralgici. La prima mezz'ora degli *Outkast* al *Lollapalooza* è una doccia ghiacciata, un balsamo rivitalizzante per le orecchie. *Now throw your hands in the air and wave 'em like you just don't care*, il palco è travolto da uno sventolio di mani da far invidia al 4 luglio. La prima mezz'ora è una doccia di rime datate '96 e '98 con qualche goccia bollente dei duemila a rompere il getto. *Ms Jackson* è il loro tormentone sopravvissuto al tempo, diventato grande con gli anni. Anche gli *Outkast* sono invecchiati bene. Quando saltellano sul posto, camminano senza sosta, zompettano a destra e sinistra con il sudore che attacca cappelli e parrucche al viso viene da pensare all'evidenza dei benefici della marjuana sulla salute umana, ad un siero per la giovinezza racchiuso in una sequenza di numeri. Minuto 18. Throwback. La vita lampo di due ragazze. Quasi vent'anni fa. *Big Boi* si avvolge sulle strofe. Non è neanche rappare, è uno strumento con tonalità e significati nascosti nel flusso di parole. *André 3000* si attorciglia con il cavo del microfono. Sembra passata un'eternità ed è solo ieri. Quasi vent'anni ed è solo ieri. *It's like that now, you better go and get the hump up out your back now*. 
+
+{% youtube JI-wjeoPVdk %}   
+
+Le parole cadono come grandine. Impossibile cercare di afferrarle al volo. Basi labirintiche. Se ci si perde nel groove mezz'ora diventa un'ora, un'ora diventano due, senza fili di lana da abbandonare per strada si finisce per perdere il senso del giorno. Vent'anni fa gli *Outkast* erano più giovani, chiunque, vivo o morto che sia, era più giovane. Il rap e l'elettronica non parlavano ancora la stessa lingua. La base era un complemento importante della canzone rap ma si comportava ancora da base. Rimaneva in secondo piano ospitando il testo. Lenti infiniti. Piani infiniti. Anche nelle canzoni c'era un sentimento meno esibito, meno urlato. C'erano gli *MC Hammer* della situazione. Meglio lasciarli perdere. A volte le dita ripetevano successioni di tasti sul pianoforte, qualche canzone era più sommessa. Le migliori hanno sempre dei cori che sussurrano alle orecchie. Dettano il tempo con le parole. Cullano come un rumore ripetitivo a cui ci si abitua in fretta se si ha la pazienza di farsi coinvolgere. Sono fonte di dipendenza per alcune persone. Si fanno ascoltare la sera, quando si ha bisogno di calma. Abbassano la pressione, stabilizzano la temperatura, fermano la sudorazione. Portano in alto senza accorgersene. Abbandonano le consapevolezze al piano terra. Devi salire al quarto piano? Ti lasciano al tredicesimo. In questo periodo di novità musicali è bene riscoprire cose passate, suoni passati. I suoni migliori si digeriscono col tempo al riparo dalle scottature solari. Le canzoni migliori sopravvivono sempre alle estati, non vengono associate alle estati, raramente parlano di estate. Percussioni ovattate, situazioni lontane da te, momenti a portata d'orecchio. Ascensori che portano al cielo. Porte spalancate per chi sa ascoltare.
+
+<iframe src="https://embed.spotify.com/?uri=spotify:track:5oKpqxuTm4kg8BRQwIBFzk" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
